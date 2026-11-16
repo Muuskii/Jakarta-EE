@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------------
+Test set: pl.uo.lambdy.Zadanie3Test
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 4, Skipped: 0, Time elapsed: 0.273 s <<< FAILURE! -- in pl.uo.lambdy.Zadanie3Test
+pl.uo.lambdy.Zadanie3Test.compositeRuleHandlesNullMajor -- Time elapsed: 0.119 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Kierunek może być null – porównuj tak, żeby nie było NullPointerException ==> Unexpected exception thrown: java.lang.UnsupportedOperationException: TODO: zadanie 3 – złożony warunek
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
+	at org.junit.jupiter.api.AssertDoesNotThrow.createAssertionFailedError(AssertDoesNotThrow.java:84)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:75)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:62)
+	at org.junit.jupiter.api.Assertions.assertDoesNotThrow(Assertions.java:3280)
+	at pl.uo.lambdy.Zadanie3Test.compositeRuleHandlesNullMajor(Zadanie3Test.java:60)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+Caused by: java.lang.UnsupportedOperationException: TODO: zadanie 3 – złożony warunek
+	at pl.uo.lambdy.Zadanie3.thirdYearGoodAvgNotIt(Zadanie3.java:39)
+	at pl.uo.lambdy.Zadanie3Test.lambda$5(Zadanie3Test.java:60)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:71)
+	... 6 more
+
+pl.uo.lambdy.Zadanie3Test.mapAppliesFunctionToEveryStudent -- Time elapsed: 0.012 s <<< ERROR!
+java.lang.UnsupportedOperationException: TODO: zadanie 3 – map
+	at pl.uo.lambdy.Zadanie3.map(Zadanie3.java:24)
+	at pl.uo.lambdy.Zadanie3Test.mapAppliesFunctionToEveryStudent(Zadanie3Test.java:39)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+pl.uo.lambdy.Zadanie3Test.filterDoesNotModifySource -- Time elapsed: 0.008 s <<< ERROR!
+java.lang.UnsupportedOperationException: TODO: zadanie 3 – filter
+	at pl.uo.lambdy.Zadanie3.filter(Zadanie3.java:18)
+	at pl.uo.lambdy.Zadanie3Test.filterDoesNotModifySource(Zadanie3Test.java:30)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+pl.uo.lambdy.Zadanie3Test.compositeRule -- Time elapsed: 0.011 s <<< ERROR!
+java.lang.UnsupportedOperationException: TODO: zadanie 3 – złożony warunek
+	at pl.uo.lambdy.Zadanie3.thirdYearGoodAvgNotIt(Zadanie3.java:39)
+	at pl.uo.lambdy.Zadanie3Test.compositeRule(Zadanie3Test.java:49)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+pl.uo.lambdy.Zadanie3Test.filterKeepsMatchingInOrder -- Time elapsed: 0.010 s <<< ERROR!
+java.lang.UnsupportedOperationException: TODO: zadanie 3 – filter
+	at pl.uo.lambdy.Zadanie3.filter(Zadanie3.java:18)
+	at pl.uo.lambdy.Zadanie3Test.filterKeepsMatchingInOrder(Zadanie3Test.java:19)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

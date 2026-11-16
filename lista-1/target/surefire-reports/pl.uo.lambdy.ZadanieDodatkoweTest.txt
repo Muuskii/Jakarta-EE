@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: pl.uo.lambdy.ZadanieDodatkoweTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.010 s <<< FAILURE! -- in pl.uo.lambdy.ZadanieDodatkoweTest
+pl.uo.lambdy.ZadanieDodatkoweTest.callsOriginalFunctionOncePerArgument -- Time elapsed: 0.006 s <<< ERROR!
+java.lang.UnsupportedOperationException: TODO: zadanie dodatkowe
+	at pl.uo.lambdy.ZadanieDodatkowe.memoize(ZadanieDodatkowe.java:19)
+	at pl.uo.lambdy.ZadanieDodatkoweTest.callsOriginalFunctionOncePerArgument(ZadanieDodatkoweTest.java:23)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

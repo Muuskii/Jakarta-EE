@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: pl.uo.lambdy.Zadanie2Test
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.036 s <<< FAILURE! -- in pl.uo.lambdy.Zadanie2Test
+pl.uo.lambdy.Zadanie2Test.byLastNameThenFirstName -- Time elapsed: 0.008 s <<< ERROR!
+java.lang.UnsupportedOperationException: TODO: zadanie 2a
+	at pl.uo.lambdy.Zadanie2.byLastNameThenFirstName(Zadanie2.java:18)
+	at pl.uo.lambdy.Zadanie2Test.byLastNameThenFirstName(Zadanie2Test.java:28)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+pl.uo.lambdy.Zadanie2Test.byMajorNullsLast -- Time elapsed: 0.007 s <<< ERROR!
+java.lang.UnsupportedOperationException: TODO: zadanie 2c
+	at pl.uo.lambdy.Zadanie2.byMajorNullsLast(Zadanie2.java:30)
+	at pl.uo.lambdy.Zadanie2Test.byMajorNullsLast(Zadanie2Test.java:63)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+pl.uo.lambdy.Zadanie2Test.byAvgDescThenLastName -- Time elapsed: 0.006 s <<< ERROR!
+java.lang.UnsupportedOperationException: TODO: zadanie 2b
+	at pl.uo.lambdy.Zadanie2.byAvgDescThenLastName(Zadanie2.java:24)
+	at pl.uo.lambdy.Zadanie2Test.byAvgDescThenLastName(Zadanie2Test.java:45)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
