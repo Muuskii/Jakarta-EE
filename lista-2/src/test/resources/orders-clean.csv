@@ -1,0 +1,1001 @@
+id;klient;miasto;data;kategoria;kwota;status
+1;Ewa Wiśniewska;Poznań;2025-01-01;Elektronika;9235,29;ZREALIZOWANE
+2;Grzegorz Zając;Poznań;2025-01-01;Zabawki;42,17;WYSLANE
+3;Anna Nowak;Opole;2025-01-01;Odzież;562,66;ZREALIZOWANE
+4;Kamil Michalski;Gdańsk;2025-01-02;Elektronika;158,18;ZREALIZOWANE
+5;Paweł Dąbrowski;Katowice;2025-01-04;Sport;2884,33;ZREALIZOWANE
+6;Magdalena Woźniak;Gdańsk;2025-01-05;Dom i ogród;794,37;ZREALIZOWANE
+7;Adam Piotrowski;Warszawa;2025-01-05;Elektronika;1433,49;WYSLANE
+8;Grzegorz Zając;Opole;2025-01-06;Zabawki;98,82;ZREALIZOWANE
+9;Jakub Jabłoński;Opole;2025-01-06;Elektronika;8244,97;NOWE
+10;Sylwia Król;Wrocław;2025-01-07;Książki;23,50;NOWE
+11;Rafał Adamczyk;Wrocław;2025-01-07;Odzież;138,85;ZREALIZOWANE
+12;Bartosz Nowakowski;Łódź;2025-01-08;Elektronika;2711,35;OPLACONE
+13;Beata Wieczorek;Wrocław;2025-01-08;Dom i ogród;3323,66;ANULOWANE
+14;Natalia Krawczyk;Katowice;2025-01-08;Odzież;59,40;ZREALIZOWANE
+15;Jakub Jabłoński;Warszawa;2025-01-09;Odzież;193,47;ZREALIZOWANE
+16;Ewa Wiśniewska;Poznań;2025-01-10;Zabawki;483,51;ZREALIZOWANE
+17;Natalia Krawczyk;Opole;2025-01-10;Zabawki;332,90;ZREALIZOWANE
+18;Paweł Dąbrowski;Gdańsk;2025-01-10;Elektronika;985,70;ZREALIZOWANE
+19;Kamil Michalski;Kraków;2025-01-10;Odzież;78,29;OPLACONE
+20;Joanna Kozłowska;Katowice;2025-01-10;Elektronika;1502,82;ZREALIZOWANE
+21;Jakub Jabłoński;Gdańsk;2025-01-11;Elektronika;3798,25;ZREALIZOWANE
+22;Aleksandra Mazur;Gdańsk;2025-01-11;Sport;186,53;ANULOWANE
+23;Piotr Kowalski;Opole;2025-01-11;Dom i ogród;2231,76;ZREALIZOWANE
+24;Anna Nowak;Poznań;2025-01-11;Odzież;29,16;ZREALIZOWANE
+25;Kamil Michalski;Warszawa;2025-01-12;Odzież;30,96;ZREALIZOWANE
+26;Beata Wieczorek;Wrocław;2025-01-13;Sport;3402,84;ANULOWANE
+27;Piotr Kowalski;Warszawa;2025-01-13;Odzież;1188,37;ZREALIZOWANE
+28;Paweł Dąbrowski;Kraków;2025-01-14;Dom i ogród;397,53;ANULOWANE
+29;Jakub Jabłoński;Katowice;2025-01-14;Odzież;304,04;ZREALIZOWANE
+30;Jakub Jabłoński;Wrocław;2025-01-14;Elektronika;594,92;ZREALIZOWANE
+31;Natalia Krawczyk;Opole;2025-01-14;Sport;3510,93;ZREALIZOWANE
+32;Zofia Grabowska;Gdańsk;2025-01-15;Dom i ogród;173,81;OPLACONE
+33;Ewelina Olszewska;Katowice;2025-01-15;Książki;88,78;ZREALIZOWANE
+34;Natalia Krawczyk;Kraków;2025-01-15;Dom i ogród;794,41;ZREALIZOWANE
+35;Paweł Dąbrowski;Opole;2025-01-15;Sport;116,43;ZREALIZOWANE
+36;Katarzyna Kamińska;Opole;2025-01-16;Elektronika;3494,86;NOWE
+37;Tomasz Lewandowski;Katowice;2025-01-17;Sport;70,82;OPLACONE
+38;Sylwia Król;Opole;2025-01-18;Książki;40,19;WYSLANE
+39;Paweł Dąbrowski;Wrocław;2025-01-18;Dom i ogród;2479,62;ZREALIZOWANE
+40;Łukasz Kwiatkowski;Kraków;2025-01-18;Elektronika;1357,73;OPLACONE
+41;Kamil Michalski;Katowice;2025-01-18;Elektronika;390,80;ANULOWANE
+42;Rafał Adamczyk;Warszawa;2025-01-18;Elektronika;6495,18;ANULOWANE
+43;Jakub Jabłoński;Warszawa;2025-01-19;Książki;225,27;OPLACONE
+44;Dawid Majewski;Wrocław;2025-01-19;Dom i ogród;287,89;NOWE
+45;Tomasz Lewandowski;Łódź;2025-01-19;Książki;97,06;ZREALIZOWANE
+46;Paweł Dąbrowski;Opole;2025-01-20;Odzież;795,48;ZREALIZOWANE
+47;Monika Nowicka;Wrocław;2025-01-20;Elektronika;1235,28;ANULOWANE
+48;Grzegorz Zając;Kraków;2025-01-21;Książki;317,13;WYSLANE
+49;Piotr Kowalski;Warszawa;2025-01-21;Elektronika;215,30;OPLACONE
+50;Katarzyna Kamińska;Warszawa;2025-01-21;Dom i ogród;822,67;WYSLANE
+51;Kamil Michalski;Warszawa;2025-01-21;Książki;94,48;NOWE
+52;Dawid Majewski;Warszawa;2025-01-21;Odzież;416,53;ZREALIZOWANE
+53;Adam Piotrowski;Katowice;2025-01-21;Książki;75,45;ZREALIZOWANE
+54;Natalia Krawczyk;Wrocław;2025-01-22;Dom i ogród;1370,87;OPLACONE
+55;Bartosz Nowakowski;Warszawa;2025-01-22;Książki;148,94;OPLACONE
+56;Piotr Kowalski;Katowice;2025-01-22;Zabawki;22,49;ZREALIZOWANE
+57;Natalia Krawczyk;Warszawa;2025-01-22;Sport;323,71;ZREALIZOWANE
+58;Michał Szymański;Wrocław;2025-01-22;Książki;75,73;ZREALIZOWANE
+59;Łukasz Kwiatkowski;Kraków;2025-01-23;Elektronika;14844,48;ZREALIZOWANE
+60;Paweł Dąbrowski;Gdańsk;2025-01-24;Książki;19,02;WYSLANE
+61;Kamil Michalski;Opole;2025-01-24;Zabawki;32,53;ZREALIZOWANE
+62;Agnieszka Zielińska;Katowice;2025-01-25;Dom i ogród;2279,80;ZREALIZOWANE
+63;Ewa Wiśniewska;Wrocław;2025-01-25;Dom i ogród;683,58;ZREALIZOWANE
+64;Łukasz Kwiatkowski;Poznań;2025-01-25;Elektronika;13808,65;ZREALIZOWANE
+65;Natalia Krawczyk;Wrocław;2025-01-25;Elektronika;1279,27;ANULOWANE
+66;Paweł Dąbrowski;Poznań;2025-01-25;Elektronika;14666,42;ZREALIZOWANE
+67;Agnieszka Zielińska;Warszawa;2025-01-25;Odzież;804,80;ZREALIZOWANE
+68;Rafał Adamczyk;Opole;2025-01-26;Zabawki;227,83;ZREALIZOWANE
+69;Adam Piotrowski;Opole;2025-01-27;Odzież;801,44;WYSLANE
+70;Beata Wieczorek;Warszawa;2025-01-28;Książki;19,11;ZREALIZOWANE
+71;Kamil Michalski;Opole;2025-01-29;Odzież;38,59;NOWE
+72;Marek Wójcik;Opole;2025-01-30;Elektronika;153,66;ZREALIZOWANE
+73;Karolina Dudek;Warszawa;2025-01-30;Elektronika;4701,80;ZREALIZOWANE
+74;Ewelina Olszewska;Warszawa;2025-01-30;Dom i ogród;592,67;WYSLANE
+75;Katarzyna Kamińska;Opole;2025-01-30;Dom i ogród;934,03;OPLACONE
+76;Aleksandra Mazur;Wrocław;2025-01-31;Książki;170,98;ANULOWANE
+77;Zofia Grabowska;Opole;2025-01-31;Sport;757,75;ZREALIZOWANE
+78;Krzysztof Jankowski;Katowice;2025-01-31;Zabawki;657,56;ZREALIZOWANE
+79;Michał Szymański;Wrocław;2025-02-01;Książki;54,59;ZREALIZOWANE
+80;Magdalena Woźniak;Wrocław;2025-02-01;Odzież;771,72;ZREALIZOWANE
+81;Katarzyna Kamińska;Katowice;2025-02-02;Książki;29,36;WYSLANE
+82;Adam Piotrowski;Kraków;2025-02-02;Dom i ogród;48,96;OPLACONE
+83;Piotr Kowalski;Poznań;2025-02-02;Dom i ogród;1350,93;WYSLANE
+84;Katarzyna Kamińska;Poznań;2025-02-02;Książki;194,33;ZREALIZOWANE
+85;Sylwia Król;Katowice;2025-02-03;Dom i ogród;443,90;WYSLANE
+86;Jakub Jabłoński;Poznań;2025-02-03;Elektronika;207,11;OPLACONE
+87;Ewelina Olszewska;Wrocław;2025-02-04;Książki;67,22;WYSLANE
+88;Zofia Grabowska;Kraków;2025-02-04;Odzież;932,45;WYSLANE
+89;Marek Wójcik;Wrocław;2025-02-04;Dom i ogród;1065,79;ZREALIZOWANE
+90;Jakub Jabłoński;Opole;2025-02-04;Zabawki;620,07;OPLACONE
+91;Paweł Dąbrowski;Katowice;2025-02-05;Elektronika;455,96;ZREALIZOWANE
+92;Anna Nowak;Warszawa;2025-02-05;Dom i ogród;3990,49;ZREALIZOWANE
+93;Natalia Krawczyk;Warszawa;2025-02-05;Dom i ogród;1143,07;ZREALIZOWANE
+94;Tomasz Lewandowski;Katowice;2025-02-06;Zabawki;454,79;ZREALIZOWANE
+95;Grzegorz Zając;Kraków;2025-02-06;Zabawki;673,71;OPLACONE
+96;Beata Wieczorek;Kraków;2025-02-06;Odzież;1000,14;ANULOWANE
+97;Krzysztof Jankowski;Łódź;2025-02-07;Elektronika;1587,36;ANULOWANE
+98;Piotr Kowalski;Katowice;2025-02-07;Dom i ogród;1174,04;ZREALIZOWANE
+99;Aleksandra Mazur;Katowice;2025-02-07;Elektronika;2478,55;ANULOWANE
+100;Katarzyna Kamińska;Łódź;2025-02-07;Elektronika;242,93;OPLACONE
+101;Zofia Grabowska;Kraków;2025-02-07;Odzież;715,85;ZREALIZOWANE
+102;Marek Wójcik;Poznań;2025-02-07;Dom i ogród;1642,38;ZREALIZOWANE
+103;Karolina Dudek;Gdańsk;2025-02-07;Dom i ogród;1833,83;ZREALIZOWANE
+104;Jakub Jabłoński;Opole;2025-02-08;Dom i ogród;783,89;OPLACONE
+105;Jakub Jabłoński;Wrocław;2025-02-08;Odzież;41,91;NOWE
+106;Ewa Wiśniewska;Łódź;2025-02-08;Dom i ogród;3770,44;WYSLANE
+107;Joanna Kozłowska;Warszawa;2025-02-08;Książki;79,71;NOWE
+108;Łukasz Kwiatkowski;Wrocław;2025-02-08;Sport;1387,48;ZREALIZOWANE
+109;Paweł Dąbrowski;Katowice;2025-02-09;Książki;32,14;WYSLANE
+110;Tomasz Lewandowski;Wrocław;2025-02-10;Dom i ogród;144,27;ZREALIZOWANE
+111;Karolina Dudek;Opole;2025-02-10;Książki;147,44;OPLACONE
+112;Monika Nowicka;Opole;2025-02-11;Książki;26,56;ZREALIZOWANE
+113;Szymon Jaworski;Gdańsk;2025-02-12;Sport;727,87;ZREALIZOWANE
+114;Beata Wieczorek;Gdańsk;2025-02-12;Książki;193,97;OPLACONE
+115;Adam Piotrowski;Kraków;2025-02-13;Dom i ogród;656,28;ZREALIZOWANE
+116;Beata Wieczorek;Wrocław;2025-02-13;Odzież;251,04;ZREALIZOWANE
+117;Agnieszka Zielińska;Gdańsk;2025-02-13;Elektronika;13721,62;NOWE
+118;Magdalena Woźniak;Katowice;2025-02-14;Książki;183,01;ZREALIZOWANE
+119;Sylwia Król;Kraków;2025-02-14;Odzież;256,38;WYSLANE
+120;Joanna Kozłowska;Kraków;2025-02-14;Elektronika;1308,01;NOWE
+121;Tomasz Lewandowski;Wrocław;2025-02-15;Książki;147,76;ANULOWANE
+122;Ewa Wiśniewska;Kraków;2025-02-15;Odzież;48,67;ZREALIZOWANE
+123;Karolina Dudek;Gdańsk;2025-02-15;Elektronika;3788,57;WYSLANE
+124;Ewelina Olszewska;Poznań;2025-02-16;Sport;244,72;WYSLANE
+125;Marek Wójcik;Warszawa;2025-02-16;Elektronika;6584,54;ZREALIZOWANE
+126;Grzegorz Zając;Gdańsk;2025-02-16;Odzież;85,53;WYSLANE
+127;Łukasz Kwiatkowski;Katowice;2025-02-17;Odzież;476,29;ZREALIZOWANE
+128;Dawid Majewski;Poznań;2025-02-17;Odzież;699,46;ZREALIZOWANE
+129;Beata Wieczorek;Wrocław;2025-02-17;Zabawki;217,77;ZREALIZOWANE
+130;Magdalena Woźniak;Kraków;2025-02-17;Elektronika;7512,68;ZREALIZOWANE
+131;Tomasz Lewandowski;Kraków;2025-02-17;Książki;106,97;OPLACONE
+132;Anna Nowak;Kraków;2025-02-17;Dom i ogród;3946,28;OPLACONE
+133;Szymon Jaworski;Warszawa;2025-02-18;Sport;3023,09;ZREALIZOWANE
+134;Natalia Krawczyk;Wrocław;2025-02-18;Elektronika;14016,46;ZREALIZOWANE
+135;Sylwia Król;Kraków;2025-02-18;Książki;306,07;WYSLANE
+136;Joanna Kozłowska;Katowice;2025-02-18;Dom i ogród;1121,24;NOWE
+137;Tomasz Lewandowski;Warszawa;2025-02-19;Książki;76,56;ZREALIZOWANE
+138;Paweł Dąbrowski;Opole;2025-02-19;Dom i ogród;394,44;ZREALIZOWANE
+139;Paweł Dąbrowski;Opole;2025-02-19;Elektronika;4581,32;ZREALIZOWANE
+140;Krzysztof Jankowski;Warszawa;2025-02-19;Zabawki;540,29;OPLACONE
+141;Zofia Grabowska;Wrocław;2025-02-20;Dom i ogród;2037,99;ANULOWANE
+142;Szymon Jaworski;Opole;2025-02-20;Sport;1529,02;ZREALIZOWANE
+143;Ewelina Olszewska;Kraków;2025-02-20;Elektronika;2726,41;ZREALIZOWANE
+144;Adam Piotrowski;Warszawa;2025-02-20;Odzież;44,41;WYSLANE
+145;Łukasz Kwiatkowski;Opole;2025-02-21;Odzież;35,82;ZREALIZOWANE
+146;Rafał Adamczyk;Poznań;2025-02-22;Książki;22,02;NOWE
+147;Natalia Krawczyk;Wrocław;2025-02-23;Dom i ogród;532,11;ZREALIZOWANE
+148;Rafał Adamczyk;Warszawa;2025-02-23;Odzież;116,71;ANULOWANE
+149;Adam Piotrowski;Poznań;2025-02-23;Dom i ogród;3454,72;ZREALIZOWANE
+150;Dawid Majewski;Poznań;2025-02-24;Zabawki;194,77;NOWE
+151;Katarzyna Kamińska;Łódź;2025-02-24;Dom i ogród;3802,43;ZREALIZOWANE
+152;Paweł Dąbrowski;Kraków;2025-02-24;Sport;313,24;ZREALIZOWANE
+153;Beata Wieczorek;Poznań;2025-02-25;Dom i ogród;45,93;OPLACONE
+154;Szymon Jaworski;Wrocław;2025-02-26;Odzież;82,91;ZREALIZOWANE
+155;Paweł Dąbrowski;Kraków;2025-02-26;Sport;2700,69;ZREALIZOWANE
+156;Sylwia Król;Wrocław;2025-02-27;Elektronika;12298,80;ZREALIZOWANE
+157;Katarzyna Kamińska;Katowice;2025-02-27;Dom i ogród;891,85;WYSLANE
+158;Ewa Wiśniewska;Warszawa;2025-02-27;Sport;1330,09;ZREALIZOWANE
+159;Sylwia Król;Wrocław;2025-02-28;Sport;3288,08;ANULOWANE
+160;Ewelina Olszewska;Gdańsk;2025-02-28;Sport;183,40;ZREALIZOWANE
+161;Katarzyna Kamińska;Wrocław;2025-02-28;Książki;141,84;ZREALIZOWANE
+162;Monika Nowicka;Poznań;2025-03-01;Dom i ogród;3198,46;ZREALIZOWANE
+163;Ewa Wiśniewska;Łódź;2025-03-01;Elektronika;9539,49;ZREALIZOWANE
+164;Paweł Dąbrowski;Opole;2025-03-01;Odzież;1163,71;NOWE
+165;Bartosz Nowakowski;Wrocław;2025-03-01;Zabawki;678,16;ZREALIZOWANE
+166;Anna Nowak;Katowice;2025-03-01;Odzież;72,07;ZREALIZOWANE
+167;Monika Nowicka;Gdańsk;2025-03-02;Książki;288,72;OPLACONE
+168;Katarzyna Kamińska;Warszawa;2025-03-02;Elektronika;3826,27;WYSLANE
+169;Grzegorz Zając;Łódź;2025-03-02;Elektronika;4356,90;OPLACONE
+170;Łukasz Kwiatkowski;Warszawa;2025-03-02;Dom i ogród;773,05;OPLACONE
+171;Zofia Grabowska;Kraków;2025-03-02;Dom i ogród;85,69;WYSLANE
+172;Łukasz Kwiatkowski;Kraków;2025-03-02;Książki;84,11;OPLACONE
+173;Rafał Adamczyk;Łódź;2025-03-03;Sport;2601,85;WYSLANE
+174;Michał Szymański;Warszawa;2025-03-04;Książki;32,39;WYSLANE
+175;Marek Wójcik;Wrocław;2025-03-04;Książki;29,24;ZREALIZOWANE
+176;Ewa Wiśniewska;Opole;2025-03-04;Sport;995,09;ANULOWANE
+177;Sylwia Król;Wrocław;2025-03-04;Elektronika;260,05;ANULOWANE
+178;Magdalena Woźniak;Wrocław;2025-03-05;Elektronika;12061,06;ZREALIZOWANE
+179;Agnieszka Zielińska;Kraków;2025-03-05;Elektronika;5898,13;ANULOWANE
+180;Paweł Dąbrowski;Warszawa;2025-03-05;Odzież;929,82;ZREALIZOWANE
+181;Sylwia Król;Kraków;2025-03-05;Dom i ogród;2812,58;ANULOWANE
+182;Piotr Kowalski;Wrocław;2025-03-05;Elektronika;6442,33;ZREALIZOWANE
+183;Michał Szymański;Poznań;2025-03-06;Książki;55,67;ZREALIZOWANE
+184;Karolina Dudek;Łódź;2025-03-06;Elektronika;155,84;ZREALIZOWANE
+185;Magdalena Woźniak;Opole;2025-03-06;Odzież;549,72;OPLACONE
+186;Joanna Kozłowska;Gdańsk;2025-03-06;Elektronika;5985,27;ZREALIZOWANE
+187;Piotr Kowalski;Kraków;2025-03-07;Dom i ogród;249,25;NOWE
+188;Julia Pawłowska;Gdańsk;2025-03-08;Książki;44,50;ANULOWANE
+189;Julia Pawłowska;Opole;2025-03-09;Odzież;744,06;ZREALIZOWANE
+190;Krzysztof Jankowski;Gdańsk;2025-03-09;Odzież;48,50;NOWE
+191;Magdalena Woźniak;Kraków;2025-03-09;Książki;47,77;ZREALIZOWANE
+192;Krzysztof Jankowski;Kraków;2025-03-09;Książki;135,17;ANULOWANE
+193;Adam Piotrowski;Warszawa;2025-03-09;Elektronika;14478,64;ZREALIZOWANE
+194;Monika Nowicka;Łódź;2025-03-09;Książki;210,94;WYSLANE
+195;Magdalena Woźniak;Poznań;2025-03-09;Elektronika;254,08;ZREALIZOWANE
+196;Łukasz Kwiatkowski;Opole;2025-03-10;Elektronika;983,46;ZREALIZOWANE
+197;Monika Nowicka;Opole;2025-03-10;Sport;306,29;ZREALIZOWANE
+198;Paweł Dąbrowski;Opole;2025-03-10;Sport;1459,12;ZREALIZOWANE
+199;Monika Nowicka;Gdańsk;2025-03-10;Elektronika;2634,20;ZREALIZOWANE
+200;Paweł Dąbrowski;Katowice;2025-03-11;Odzież;992,16;ZREALIZOWANE
+201;Jakub Jabłoński;Katowice;2025-03-11;Sport;263,75;ANULOWANE
+202;Natalia Krawczyk;Warszawa;2025-03-11;Dom i ogród;1033,49;NOWE
+203;Kamil Michalski;Gdańsk;2025-03-11;Zabawki;16,52;ZREALIZOWANE
+204;Aleksandra Mazur;Wrocław;2025-03-12;Elektronika;10316,45;ZREALIZOWANE
+205;Michał Szymański;Łódź;2025-03-12;Elektronika;357,56;ZREALIZOWANE
+206;Piotr Kowalski;Warszawa;2025-03-13;Zabawki;130,26;OPLACONE
+207;Karolina Dudek;Opole;2025-03-14;Sport;153,28;WYSLANE
+208;Joanna Kozłowska;Poznań;2025-03-14;Dom i ogród;1140,53;NOWE
+209;Sylwia Król;Poznań;2025-03-14;Elektronika;8586,51;OPLACONE
+210;Jakub Jabłoński;Opole;2025-03-15;Elektronika;1898,50;ZREALIZOWANE
+211;Bartosz Nowakowski;Kraków;2025-03-15;Elektronika;5569,11;ZREALIZOWANE
+212;Agnieszka Zielińska;Gdańsk;2025-03-15;Książki;22,03;ZREALIZOWANE
+213;Szymon Jaworski;Warszawa;2025-03-15;Dom i ogród;3181,68;ZREALIZOWANE
+214;Joanna Kozłowska;Kraków;2025-03-15;Książki;47,59;ZREALIZOWANE
+215;Paweł Dąbrowski;Wrocław;2025-03-16;Zabawki;226,17;ZREALIZOWANE
+216;Aleksandra Mazur;Kraków;2025-03-16;Zabawki;68,51;NOWE
+217;Krzysztof Jankowski;Poznań;2025-03-16;Dom i ogród;320,39;ZREALIZOWANE
+218;Natalia Krawczyk;Wrocław;2025-03-16;Dom i ogród;189,63;WYSLANE
+219;Anna Nowak;Wrocław;2025-03-17;Zabawki;710,82;ZREALIZOWANE
+220;Michał Szymański;Opole;2025-03-17;Zabawki;270,00;ZREALIZOWANE
+221;Anna Nowak;Łódź;2025-03-18;Dom i ogród;156,26;ZREALIZOWANE
+222;Szymon Jaworski;Opole;2025-03-18;Dom i ogród;3760,41;ANULOWANE
+223;Bartosz Nowakowski;Opole;2025-03-18;Książki;276,01;ZREALIZOWANE
+224;Magdalena Woźniak;Gdańsk;2025-03-18;Zabawki;537,89;ZREALIZOWANE
+225;Łukasz Kwiatkowski;Łódź;2025-03-18;Zabawki;41,50;ZREALIZOWANE
+226;Grzegorz Zając;Gdańsk;2025-03-18;Sport;693,20;ZREALIZOWANE
+227;Monika Nowicka;Opole;2025-03-19;Dom i ogród;637,31;ZREALIZOWANE
+228;Tomasz Lewandowski;Gdańsk;2025-03-19;Elektronika;275,67;ZREALIZOWANE
+229;Krzysztof Jankowski;Poznań;2025-03-20;Dom i ogród;40,04;ZREALIZOWANE
+230;Bartosz Nowakowski;Łódź;2025-03-20;Elektronika;13113,33;WYSLANE
+231;Monika Nowicka;Warszawa;2025-03-21;Elektronika;11219,71;ANULOWANE
+232;Sylwia Król;Opole;2025-03-22;Zabawki;32,11;ZREALIZOWANE
+233;Natalia Krawczyk;Poznań;2025-03-22;Sport;2798,75;ZREALIZOWANE
+234;Piotr Kowalski;Katowice;2025-03-22;Książki;81,57;ZREALIZOWANE
+235;Tomasz Lewandowski;Kraków;2025-03-22;Zabawki;802,01;ZREALIZOWANE
+236;Julia Pawłowska;Poznań;2025-03-22;Sport;857,65;ZREALIZOWANE
+237;Paweł Dąbrowski;Wrocław;2025-03-23;Elektronika;11235,75;ZREALIZOWANE
+238;Krzysztof Jankowski;Łódź;2025-03-24;Dom i ogród;3990,33;ANULOWANE
+239;Piotr Kowalski;Warszawa;2025-03-24;Elektronika;13331,17;ZREALIZOWANE
+240;Katarzyna Kamińska;Warszawa;2025-03-26;Odzież;75,10;ZREALIZOWANE
+241;Magdalena Woźniak;Wrocław;2025-03-26;Sport;844,83;WYSLANE
+242;Jakub Jabłoński;Wrocław;2025-03-26;Odzież;411,16;NOWE
+243;Magdalena Woźniak;Kraków;2025-03-27;Sport;2893,53;ZREALIZOWANE
+244;Ewa Wiśniewska;Wrocław;2025-03-28;Dom i ogród;3438,28;ANULOWANE
+245;Agnieszka Zielińska;Wrocław;2025-03-28;Elektronika;4076,18;ZREALIZOWANE
+246;Sylwia Król;Katowice;2025-03-28;Elektronika;7641,76;ZREALIZOWANE
+247;Rafał Adamczyk;Poznań;2025-03-28;Elektronika;366,37;ZREALIZOWANE
+248;Michał Szymański;Warszawa;2025-03-28;Zabawki;210,39;ZREALIZOWANE
+249;Paweł Dąbrowski;Gdańsk;2025-03-28;Odzież;310,70;ZREALIZOWANE
+250;Karolina Dudek;Kraków;2025-03-28;Elektronika;1164,18;ZREALIZOWANE
+251;Joanna Kozłowska;Katowice;2025-03-29;Odzież;29,50;OPLACONE
+252;Magdalena Woźniak;Warszawa;2025-03-29;Elektronika;7260,49;NOWE
+253;Dawid Majewski;Poznań;2025-03-30;Elektronika;960,33;WYSLANE
+254;Karolina Dudek;Wrocław;2025-03-30;Elektronika;14004,71;ANULOWANE
+255;Jakub Jabłoński;Katowice;2025-03-31;Zabawki;421,15;ZREALIZOWANE
+256;Monika Nowicka;Opole;2025-03-31;Odzież;617,49;OPLACONE
+257;Tomasz Lewandowski;Gdańsk;2025-03-31;Elektronika;365,50;WYSLANE
+258;Grzegorz Zając;Opole;2025-03-31;Sport;1766,07;NOWE
+259;Łukasz Kwiatkowski;Wrocław;2025-03-31;Książki;31,37;ZREALIZOWANE
+260;Szymon Jaworski;Wrocław;2025-04-01;Książki;190,19;ZREALIZOWANE
+261;Rafał Adamczyk;Poznań;2025-04-01;Dom i ogród;1055,94;ZREALIZOWANE
+262;Sylwia Król;Katowice;2025-04-02;Dom i ogród;1653,68;WYSLANE
+263;Grzegorz Zając;Łódź;2025-04-02;Zabawki;44,72;OPLACONE
+264;Jakub Jabłoński;Opole;2025-04-03;Elektronika;4302,26;WYSLANE
+265;Ewelina Olszewska;Kraków;2025-04-03;Elektronika;5413,68;ZREALIZOWANE
+266;Adam Piotrowski;Opole;2025-04-03;Elektronika;6203,39;ZREALIZOWANE
+267;Ewa Wiśniewska;Kraków;2025-04-03;Książki;215,69;ANULOWANE
+268;Łukasz Kwiatkowski;Warszawa;2025-04-03;Odzież;277,94;WYSLANE
+269;Jakub Jabłoński;Wrocław;2025-04-03;Dom i ogród;3139,53;ZREALIZOWANE
+270;Agnieszka Zielińska;Gdańsk;2025-04-03;Sport;146,59;ZREALIZOWANE
+271;Adam Piotrowski;Łódź;2025-04-04;Zabawki;621,92;ZREALIZOWANE
+272;Grzegorz Zając;Kraków;2025-04-04;Książki;107,23;WYSLANE
+273;Szymon Jaworski;Katowice;2025-04-04;Sport;1115,43;ZREALIZOWANE
+274;Kamil Michalski;Katowice;2025-04-06;Sport;547,00;ZREALIZOWANE
+275;Agnieszka Zielińska;Warszawa;2025-04-06;Dom i ogród;1060,65;ZREALIZOWANE
+276;Adam Piotrowski;Opole;2025-04-07;Odzież;1046,33;ZREALIZOWANE
+277;Bartosz Nowakowski;Wrocław;2025-04-08;Elektronika;1139,96;OPLACONE
+278;Kamil Michalski;Poznań;2025-04-08;Książki;94,45;WYSLANE
+279;Rafał Adamczyk;Kraków;2025-04-08;Książki;96,55;OPLACONE
+280;Piotr Kowalski;Katowice;2025-04-09;Elektronika;150,36;ANULOWANE
+281;Julia Pawłowska;Katowice;2025-04-10;Dom i ogród;2719,48;NOWE
+282;Katarzyna Kamińska;Wrocław;2025-04-10;Dom i ogród;359,28;ANULOWANE
+283;Grzegorz Zając;Warszawa;2025-04-10;Sport;447,82;OPLACONE
+284;Karolina Dudek;Gdańsk;2025-04-11;Odzież;70,94;ZREALIZOWANE
+285;Magdalena Woźniak;Warszawa;2025-04-11;Dom i ogród;2508,60;ZREALIZOWANE
+286;Beata Wieczorek;Katowice;2025-04-12;Książki;124,56;WYSLANE
+287;Paweł Dąbrowski;Poznań;2025-04-12;Sport;290,07;WYSLANE
+288;Dawid Majewski;Opole;2025-04-12;Elektronika;2096,66;ANULOWANE
+289;Joanna Kozłowska;Wrocław;2025-04-12;Elektronika;3681,90;OPLACONE
+290;Joanna Kozłowska;Opole;2025-04-12;Książki;37,69;OPLACONE
+291;Natalia Krawczyk;Opole;2025-04-13;Zabawki;15,70;NOWE
+292;Sylwia Król;Wrocław;2025-04-13;Dom i ogród;289,77;NOWE
+293;Sylwia Król;Opole;2025-04-13;Odzież;45,24;WYSLANE
+294;Katarzyna Kamińska;Gdańsk;2025-04-13;Odzież;1069,45;ZREALIZOWANE
+295;Monika Nowicka;Katowice;2025-04-14;Dom i ogród;244,06;ZREALIZOWANE
+296;Aleksandra Mazur;Opole;2025-04-14;Sport;1883,50;ANULOWANE
+297;Grzegorz Zając;Gdańsk;2025-04-15;Sport;839,63;OPLACONE
+298;Natalia Krawczyk;Wrocław;2025-04-15;Odzież;1193,74;ZREALIZOWANE
+299;Szymon Jaworski;Łódź;2025-04-15;Odzież;113,38;ZREALIZOWANE
+300;Kamil Michalski;Wrocław;2025-04-16;Dom i ogród;418,64;ZREALIZOWANE
+301;Sylwia Król;Wrocław;2025-04-16;Odzież;1090,93;WYSLANE
+302;Zofia Grabowska;Łódź;2025-04-16;Odzież;308,69;NOWE
+303;Karolina Dudek;Opole;2025-04-16;Elektronika;1118,13;OPLACONE
+304;Aleksandra Mazur;Warszawa;2025-04-16;Książki;205,07;WYSLANE
+305;Ewa Wiśniewska;Opole;2025-04-16;Sport;149,26;ZREALIZOWANE
+306;Adam Piotrowski;Katowice;2025-04-18;Odzież;1036,66;ANULOWANE
+307;Dawid Majewski;Warszawa;2025-04-19;Odzież;95,06;OPLACONE
+308;Karolina Dudek;Warszawa;2025-04-19;Dom i ogród;105,59;ZREALIZOWANE
+309;Marek Wójcik;Opole;2025-04-20;Dom i ogród;1849,54;ANULOWANE
+310;Aleksandra Mazur;Opole;2025-04-20;Książki;133,71;ZREALIZOWANE
+311;Julia Pawłowska;Poznań;2025-04-21;Sport;1864,67;ANULOWANE
+312;Paweł Dąbrowski;Wrocław;2025-04-21;Odzież;668,57;ZREALIZOWANE
+313;Beata Wieczorek;Kraków;2025-04-21;Sport;1397,09;WYSLANE
+314;Katarzyna Kamińska;Katowice;2025-04-21;Książki;94,73;WYSLANE
+315;Grzegorz Zając;Katowice;2025-04-21;Odzież;31,16;ZREALIZOWANE
+316;Adam Piotrowski;Kraków;2025-04-21;Elektronika;13371,87;NOWE
+317;Bartosz Nowakowski;Gdańsk;2025-04-21;Książki;49,53;ZREALIZOWANE
+318;Jakub Jabłoński;Opole;2025-04-21;Książki;21,71;ANULOWANE
+319;Natalia Krawczyk;Wrocław;2025-04-22;Elektronika;2912,47;ANULOWANE
+320;Dawid Majewski;Poznań;2025-04-22;Książki;23,66;ZREALIZOWANE
+321;Rafał Adamczyk;Poznań;2025-04-22;Sport;1655,19;ZREALIZOWANE
+322;Paweł Dąbrowski;Wrocław;2025-04-23;Odzież;398,22;ANULOWANE
+323;Joanna Kozłowska;Wrocław;2025-04-23;Odzież;115,61;ZREALIZOWANE
+324;Zofia Grabowska;Kraków;2025-04-23;Dom i ogród;334,80;ZREALIZOWANE
+325;Krzysztof Jankowski;Gdańsk;2025-04-24;Elektronika;2933,07;ZREALIZOWANE
+326;Łukasz Kwiatkowski;Poznań;2025-04-25;Zabawki;325,81;ZREALIZOWANE
+327;Magdalena Woźniak;Kraków;2025-04-25;Elektronika;13906,08;ANULOWANE
+328;Łukasz Kwiatkowski;Katowice;2025-04-25;Elektronika;10237,17;WYSLANE
+329;Łukasz Kwiatkowski;Gdańsk;2025-04-26;Książki;179,98;OPLACONE
+330;Grzegorz Zając;Wrocław;2025-04-26;Książki;25,01;WYSLANE
+331;Kamil Michalski;Gdańsk;2025-04-26;Dom i ogród;897,08;OPLACONE
+332;Marek Wójcik;Gdańsk;2025-04-27;Książki;22,50;OPLACONE
+333;Krzysztof Jankowski;Kraków;2025-04-27;Dom i ogród;46,08;WYSLANE
+334;Paweł Dąbrowski;Wrocław;2025-04-27;Zabawki;29,16;ZREALIZOWANE
+335;Beata Wieczorek;Opole;2025-04-27;Elektronika;5379,58;NOWE
+336;Monika Nowicka;Gdańsk;2025-04-28;Odzież;34,99;ZREALIZOWANE
+337;Joanna Kozłowska;Gdańsk;2025-04-30;Książki;126,11;ZREALIZOWANE
+338;Rafał Adamczyk;Poznań;2025-04-30;Dom i ogród;1757,86;NOWE
+339;Ewa Wiśniewska;Katowice;2025-04-30;Książki;177,76;ZREALIZOWANE
+340;Tomasz Lewandowski;Gdańsk;2025-05-01;Książki;77,90;WYSLANE
+341;Kamil Michalski;Poznań;2025-05-01;Zabawki;50,74;ZREALIZOWANE
+342;Marek Wójcik;Poznań;2025-05-01;Elektronika;12256,09;ANULOWANE
+343;Anna Nowak;Poznań;2025-05-02;Dom i ogród;406,95;ZREALIZOWANE
+344;Joanna Kozłowska;Poznań;2025-05-02;Odzież;596,00;ZREALIZOWANE
+345;Sylwia Król;Wrocław;2025-05-02;Książki;182,10;NOWE
+346;Tomasz Lewandowski;Opole;2025-05-03;Książki;20,17;ZREALIZOWANE
+347;Rafał Adamczyk;Warszawa;2025-05-03;Sport;581,22;ZREALIZOWANE
+348;Marek Wójcik;Poznań;2025-05-04;Elektronika;1944,25;ZREALIZOWANE
+349;Aleksandra Mazur;Katowice;2025-05-04;Elektronika;4160,76;ZREALIZOWANE
+350;Rafał Adamczyk;Katowice;2025-05-05;Dom i ogród;3932,08;OPLACONE
+351;Marek Wójcik;Warszawa;2025-05-06;Sport;1303,50;ANULOWANE
+352;Dawid Majewski;Poznań;2025-05-07;Odzież;69,88;WYSLANE
+353;Natalia Krawczyk;Opole;2025-05-07;Książki;233,37;NOWE
+354;Tomasz Lewandowski;Opole;2025-05-08;Dom i ogród;453,29;OPLACONE
+355;Kamil Michalski;Katowice;2025-05-08;Odzież;1189,30;OPLACONE
+356;Tomasz Lewandowski;Wrocław;2025-05-08;Zabawki;541,86;ZREALIZOWANE
+357;Jakub Jabłoński;Warszawa;2025-05-08;Zabawki;897,91;ZREALIZOWANE
+358;Anna Nowak;Katowice;2025-05-09;Elektronika;3220,67;ZREALIZOWANE
+359;Monika Nowicka;Katowice;2025-05-09;Sport;141,10;OPLACONE
+360;Piotr Kowalski;Wrocław;2025-05-09;Elektronika;166,23;ZREALIZOWANE
+361;Monika Nowicka;Katowice;2025-05-09;Sport;43,49;WYSLANE
+362;Tomasz Lewandowski;Opole;2025-05-09;Zabawki;30,55;ZREALIZOWANE
+363;Julia Pawłowska;Warszawa;2025-05-10;Sport;485,04;ZREALIZOWANE
+364;Aleksandra Mazur;Poznań;2025-05-10;Sport;1139,08;OPLACONE
+365;Julia Pawłowska;Katowice;2025-05-10;Zabawki;300,38;ZREALIZOWANE
+366;Karolina Dudek;Opole;2025-05-10;Sport;2640,22;ANULOWANE
+367;Joanna Kozłowska;Poznań;2025-05-10;Elektronika;4808,33;ZREALIZOWANE
+368;Krzysztof Jankowski;Łódź;2025-05-10;Zabawki;48,24;WYSLANE
+369;Rafał Adamczyk;Katowice;2025-05-10;Książki;77,47;ZREALIZOWANE
+370;Natalia Krawczyk;Kraków;2025-05-11;Zabawki;18,31;ZREALIZOWANE
+371;Szymon Jaworski;Łódź;2025-05-12;Odzież;201,97;ZREALIZOWANE
+372;Dawid Majewski;Poznań;2025-05-12;Sport;346,33;WYSLANE
+373;Ewa Wiśniewska;Opole;2025-05-13;Książki;317,99;ZREALIZOWANE
+374;Łukasz Kwiatkowski;Poznań;2025-05-13;Zabawki;745,32;ANULOWANE
+375;Łukasz Kwiatkowski;Wrocław;2025-05-13;Elektronika;6971,91;NOWE
+376;Beata Wieczorek;Poznań;2025-05-14;Sport;701,58;ZREALIZOWANE
+377;Beata Wieczorek;Kraków;2025-05-14;Książki;81,86;WYSLANE
+378;Paweł Dąbrowski;Poznań;2025-05-14;Książki;125,04;ZREALIZOWANE
+379;Krzysztof Jankowski;Kraków;2025-05-15;Sport;1405,42;ZREALIZOWANE
+380;Michał Szymański;Warszawa;2025-05-15;Odzież;1145,16;ZREALIZOWANE
+381;Tomasz Lewandowski;Łódź;2025-05-15;Sport;73,48;WYSLANE
+382;Marek Wójcik;Katowice;2025-05-15;Odzież;267,39;ZREALIZOWANE
+383;Ewelina Olszewska;Opole;2025-05-16;Elektronika;7744,20;WYSLANE
+384;Joanna Kozłowska;Kraków;2025-05-16;Odzież;73,44;ZREALIZOWANE
+385;Rafał Adamczyk;Wrocław;2025-05-16;Sport;235,33;OPLACONE
+386;Zofia Grabowska;Kraków;2025-05-16;Sport;173,25;ZREALIZOWANE
+387;Joanna Kozłowska;Katowice;2025-05-16;Zabawki;214,72;ANULOWANE
+388;Zofia Grabowska;Kraków;2025-05-16;Zabawki;225,36;ZREALIZOWANE
+389;Katarzyna Kamińska;Katowice;2025-05-17;Odzież;225,68;WYSLANE
+390;Julia Pawłowska;Opole;2025-05-17;Odzież;877,17;ZREALIZOWANE
+391;Paweł Dąbrowski;Kraków;2025-05-17;Zabawki;320,72;ANULOWANE
+392;Jakub Jabłoński;Kraków;2025-05-18;Książki;193,14;WYSLANE
+393;Anna Nowak;Wrocław;2025-05-19;Książki;237,52;ZREALIZOWANE
+394;Marek Wójcik;Wrocław;2025-05-19;Zabawki;450,11;ZREALIZOWANE
+395;Zofia Grabowska;Poznań;2025-05-19;Dom i ogród;2702,00;OPLACONE
+396;Karolina Dudek;Warszawa;2025-05-19;Książki;91,10;NOWE
+397;Beata Wieczorek;Łódź;2025-05-20;Zabawki;177,92;ZREALIZOWANE
+398;Zofia Grabowska;Poznań;2025-05-21;Odzież;99,30;ANULOWANE
+399;Marek Wójcik;Wrocław;2025-05-21;Książki;234,85;WYSLANE
+400;Paweł Dąbrowski;Opole;2025-05-21;Elektronika;12273,22;ZREALIZOWANE
+401;Jakub Jabłoński;Opole;2025-05-21;Książki;109,83;OPLACONE
+402;Magdalena Woźniak;Wrocław;2025-05-21;Elektronika;7487,13;OPLACONE
+403;Beata Wieczorek;Katowice;2025-05-21;Sport;2808,95;OPLACONE
+404;Grzegorz Zając;Warszawa;2025-05-22;Książki;171,83;WYSLANE
+405;Marek Wójcik;Opole;2025-05-22;Książki;190,36;OPLACONE
+406;Monika Nowicka;Opole;2025-05-23;Książki;38,30;ANULOWANE
+407;Joanna Kozłowska;Łódź;2025-05-23;Książki;198,93;ZREALIZOWANE
+408;Beata Wieczorek;Katowice;2025-05-24;Dom i ogród;387,07;WYSLANE
+409;Beata Wieczorek;Poznań;2025-05-25;Sport;268,28;OPLACONE
+410;Zofia Grabowska;Opole;2025-05-26;Odzież;396,81;ZREALIZOWANE
+411;Ewa Wiśniewska;Katowice;2025-05-26;Elektronika;1372,69;ZREALIZOWANE
+412;Julia Pawłowska;Kraków;2025-05-27;Dom i ogród;2787,23;ZREALIZOWANE
+413;Ewa Wiśniewska;Kraków;2025-05-27;Zabawki;81,62;ANULOWANE
+414;Julia Pawłowska;Kraków;2025-05-27;Elektronika;307,04;ZREALIZOWANE
+415;Natalia Krawczyk;Katowice;2025-05-27;Elektronika;854,54;ANULOWANE
+416;Monika Nowicka;Warszawa;2025-05-27;Elektronika;9493,91;OPLACONE
+417;Piotr Kowalski;Łódź;2025-05-27;Odzież;118,12;ZREALIZOWANE
+418;Agnieszka Zielińska;Łódź;2025-05-27;Dom i ogród;69,81;ZREALIZOWANE
+419;Sylwia Król;Gdańsk;2025-05-28;Odzież;230,79;ZREALIZOWANE
+420;Agnieszka Zielińska;Łódź;2025-05-28;Książki;288,44;ZREALIZOWANE
+421;Natalia Krawczyk;Poznań;2025-05-28;Sport;65,48;NOWE
+422;Grzegorz Zając;Katowice;2025-05-28;Elektronika;2064,98;NOWE
+423;Monika Nowicka;Katowice;2025-05-28;Elektronika;12731,81;ZREALIZOWANE
+424;Joanna Kozłowska;Łódź;2025-05-29;Zabawki;38,23;ZREALIZOWANE
+425;Grzegorz Zając;Warszawa;2025-05-30;Zabawki;106,41;ZREALIZOWANE
+426;Bartosz Nowakowski;Kraków;2025-05-30;Elektronika;8748,66;OPLACONE
+427;Karolina Dudek;Łódź;2025-05-30;Sport;2790,55;ZREALIZOWANE
+428;Sylwia Król;Wrocław;2025-05-30;Zabawki;282,73;ZREALIZOWANE
+429;Paweł Dąbrowski;Wrocław;2025-05-31;Odzież;57,73;ANULOWANE
+430;Krzysztof Jankowski;Opole;2025-06-01;Elektronika;238,20;ZREALIZOWANE
+431;Łukasz Kwiatkowski;Kraków;2025-06-02;Książki;174,02;ZREALIZOWANE
+432;Szymon Jaworski;Katowice;2025-06-02;Elektronika;290,22;ZREALIZOWANE
+433;Tomasz Lewandowski;Opole;2025-06-02;Elektronika;373,53;ZREALIZOWANE
+434;Monika Nowicka;Wrocław;2025-06-02;Odzież;105,40;ZREALIZOWANE
+435;Zofia Grabowska;Gdańsk;2025-06-03;Zabawki;337,26;WYSLANE
+436;Bartosz Nowakowski;Opole;2025-06-05;Dom i ogród;73,17;WYSLANE
+437;Adam Piotrowski;Kraków;2025-06-05;Odzież;236,47;ZREALIZOWANE
+438;Adam Piotrowski;Łódź;2025-06-05;Książki;192,13;ZREALIZOWANE
+439;Dawid Majewski;Łódź;2025-06-05;Książki;33,85;WYSLANE
+440;Ewelina Olszewska;Warszawa;2025-06-05;Odzież;40,07;WYSLANE
+441;Ewelina Olszewska;Poznań;2025-06-06;Elektronika;2749,62;ANULOWANE
+442;Szymon Jaworski;Opole;2025-06-06;Książki;20,69;ZREALIZOWANE
+443;Aleksandra Mazur;Warszawa;2025-06-06;Odzież;254,32;ZREALIZOWANE
+444;Karolina Dudek;Kraków;2025-06-07;Dom i ogród;1635,44;ZREALIZOWANE
+445;Zofia Grabowska;Wrocław;2025-06-07;Odzież;744,99;WYSLANE
+446;Monika Nowicka;Gdańsk;2025-06-07;Zabawki;17,10;ZREALIZOWANE
+447;Natalia Krawczyk;Łódź;2025-06-08;Elektronika;562,92;ZREALIZOWANE
+448;Paweł Dąbrowski;Wrocław;2025-06-08;Elektronika;3204,25;ANULOWANE
+449;Tomasz Lewandowski;Opole;2025-06-08;Elektronika;643,57;ZREALIZOWANE
+450;Natalia Krawczyk;Łódź;2025-06-08;Elektronika;3334,83;ANULOWANE
+451;Bartosz Nowakowski;Gdańsk;2025-06-08;Elektronika;11886,83;ZREALIZOWANE
+452;Zofia Grabowska;Kraków;2025-06-08;Zabawki;575,95;WYSLANE
+453;Magdalena Woźniak;Wrocław;2025-06-09;Dom i ogród;217,42;WYSLANE
+454;Bartosz Nowakowski;Opole;2025-06-09;Sport;1884,34;ZREALIZOWANE
+455;Zofia Grabowska;Kraków;2025-06-09;Elektronika;2223,81;WYSLANE
+456;Szymon Jaworski;Kraków;2025-06-10;Książki;33,45;ZREALIZOWANE
+457;Adam Piotrowski;Opole;2025-06-10;Sport;35,56;NOWE
+458;Dawid Majewski;Gdańsk;2025-06-10;Dom i ogród;227,06;ZREALIZOWANE
+459;Magdalena Woźniak;Wrocław;2025-06-10;Dom i ogród;200,43;ZREALIZOWANE
+460;Beata Wieczorek;Poznań;2025-06-10;Zabawki;15,53;ZREALIZOWANE
+461;Karolina Dudek;Gdańsk;2025-06-11;Książki;22,44;NOWE
+462;Ewa Wiśniewska;Łódź;2025-06-11;Książki;19,05;ZREALIZOWANE
+463;Sylwia Król;Warszawa;2025-06-12;Odzież;139,08;ANULOWANE
+464;Adam Piotrowski;Gdańsk;2025-06-12;Odzież;310,11;ZREALIZOWANE
+465;Ewa Wiśniewska;Opole;2025-06-13;Elektronika;253,94;ZREALIZOWANE
+466;Ewelina Olszewska;Opole;2025-06-14;Książki;19,00;WYSLANE
+467;Paweł Dąbrowski;Opole;2025-06-14;Elektronika;9211,10;OPLACONE
+468;Grzegorz Zając;Kraków;2025-06-14;Elektronika;584,09;NOWE
+469;Adam Piotrowski;Opole;2025-06-14;Dom i ogród;949,12;ZREALIZOWANE
+470;Monika Nowicka;Wrocław;2025-06-14;Elektronika;200,58;ZREALIZOWANE
+471;Piotr Kowalski;Warszawa;2025-06-14;Książki;91,76;OPLACONE
+472;Dawid Majewski;Katowice;2025-06-15;Zabawki;449,68;WYSLANE
+473;Zofia Grabowska;Poznań;2025-06-15;Zabawki;156,76;ZREALIZOWANE
+474;Anna Nowak;Poznań;2025-06-15;Zabawki;15,89;ZREALIZOWANE
+475;Zofia Grabowska;Kraków;2025-06-15;Dom i ogród;759,90;ZREALIZOWANE
+476;Kamil Michalski;Łódź;2025-06-15;Dom i ogród;744,13;ANULOWANE
+477;Grzegorz Zając;Wrocław;2025-06-16;Dom i ogród;126,03;WYSLANE
+478;Zofia Grabowska;Opole;2025-06-17;Dom i ogród;42,04;ZREALIZOWANE
+479;Natalia Krawczyk;Poznań;2025-06-17;Odzież;1107,22;ZREALIZOWANE
+480;Agnieszka Zielińska;Gdańsk;2025-06-18;Odzież;50,88;OPLACONE
+481;Natalia Krawczyk;Łódź;2025-06-18;Elektronika;11739,21;NOWE
+482;Zofia Grabowska;Kraków;2025-06-18;Książki;203,32;OPLACONE
+483;Marek Wójcik;Wrocław;2025-06-19;Zabawki;263,41;ZREALIZOWANE
+484;Grzegorz Zając;Wrocław;2025-06-19;Dom i ogród;2993,25;NOWE
+485;Dawid Majewski;Łódź;2025-06-19;Odzież;30,43;ZREALIZOWANE
+486;Beata Wieczorek;Katowice;2025-06-20;Dom i ogród;2274,00;ANULOWANE
+487;Bartosz Nowakowski;Poznań;2025-06-20;Książki;19,00;ZREALIZOWANE
+488;Dawid Majewski;Wrocław;2025-06-20;Książki;19,39;OPLACONE
+489;Adam Piotrowski;Wrocław;2025-06-21;Sport;300,38;ZREALIZOWANE
+490;Marek Wójcik;Wrocław;2025-06-21;Książki;73,27;WYSLANE
+491;Aleksandra Mazur;Opole;2025-06-21;Książki;55,50;ZREALIZOWANE
+492;Adam Piotrowski;Opole;2025-06-21;Elektronika;10568,07;ZREALIZOWANE
+493;Monika Nowicka;Opole;2025-06-22;Dom i ogród;4051,11;OPLACONE
+494;Beata Wieczorek;Katowice;2025-06-22;Odzież;1125,89;ZREALIZOWANE
+495;Krzysztof Jankowski;Kraków;2025-06-22;Sport;1168,49;ZREALIZOWANE
+496;Tomasz Lewandowski;Katowice;2025-06-23;Odzież;414,59;ZREALIZOWANE
+497;Ewelina Olszewska;Warszawa;2025-06-23;Książki;311,46;ZREALIZOWANE
+498;Kamil Michalski;Poznań;2025-06-23;Zabawki;204,17;ZREALIZOWANE
+499;Joanna Kozłowska;Opole;2025-06-23;Dom i ogród;1136,51;ZREALIZOWANE
+500;Paweł Dąbrowski;Katowice;2025-06-23;Dom i ogród;4131,88;WYSLANE
+501;Jakub Jabłoński;Opole;2025-06-24;Odzież;398,85;ZREALIZOWANE
+502;Jakub Jabłoński;Łódź;2025-06-24;Książki;206,61;OPLACONE
+503;Zofia Grabowska;Warszawa;2025-06-24;Odzież;126,19;ZREALIZOWANE
+504;Natalia Krawczyk;Warszawa;2025-06-25;Odzież;164,12;ZREALIZOWANE
+505;Magdalena Woźniak;Katowice;2025-06-25;Książki;119,22;WYSLANE
+506;Natalia Krawczyk;Opole;2025-06-25;Dom i ogród;1885,40;ZREALIZOWANE
+507;Krzysztof Jankowski;Warszawa;2025-06-25;Elektronika;6040,60;ZREALIZOWANE
+508;Ewa Wiśniewska;Poznań;2025-06-26;Elektronika;8665,91;ZREALIZOWANE
+509;Julia Pawłowska;Gdańsk;2025-06-26;Elektronika;8049,31;ZREALIZOWANE
+510;Magdalena Woźniak;Kraków;2025-06-26;Odzież;73,57;ANULOWANE
+511;Anna Nowak;Opole;2025-06-26;Dom i ogród;779,40;WYSLANE
+512;Piotr Kowalski;Wrocław;2025-06-27;Dom i ogród;63,53;OPLACONE
+513;Szymon Jaworski;Kraków;2025-06-28;Zabawki;26,92;OPLACONE
+514;Ewelina Olszewska;Warszawa;2025-06-28;Zabawki;189,43;ZREALIZOWANE
+515;Monika Nowicka;Warszawa;2025-06-29;Książki;72,50;ZREALIZOWANE
+516;Aleksandra Mazur;Wrocław;2025-06-29;Dom i ogród;2608,93;ZREALIZOWANE
+517;Anna Nowak;Kraków;2025-06-29;Odzież;313,63;ZREALIZOWANE
+518;Sylwia Król;Opole;2025-06-29;Elektronika;261,94;ZREALIZOWANE
+519;Adam Piotrowski;Warszawa;2025-06-29;Elektronika;5418,76;ZREALIZOWANE
+520;Zofia Grabowska;Poznań;2025-06-30;Książki;85,02;OPLACONE
+521;Rafał Adamczyk;Opole;2025-07-01;Zabawki;597,80;ANULOWANE
+522;Monika Nowicka;Opole;2025-07-02;Odzież;57,77;WYSLANE
+523;Anna Nowak;Opole;2025-07-02;Odzież;880,19;WYSLANE
+524;Magdalena Woźniak;Poznań;2025-07-02;Dom i ogród;454,94;NOWE
+525;Łukasz Kwiatkowski;Opole;2025-07-03;Sport;2249,56;ZREALIZOWANE
+526;Katarzyna Kamińska;Kraków;2025-07-03;Elektronika;373,37;NOWE
+527;Agnieszka Zielińska;Poznań;2025-07-03;Dom i ogród;3952,67;ZREALIZOWANE
+528;Beata Wieczorek;Opole;2025-07-04;Zabawki;458,03;NOWE
+529;Aleksandra Mazur;Kraków;2025-07-04;Elektronika;10243,31;ZREALIZOWANE
+530;Kamil Michalski;Gdańsk;2025-07-04;Sport;127,56;ZREALIZOWANE
+531;Monika Nowicka;Warszawa;2025-07-05;Sport;3357,08;ANULOWANE
+532;Paweł Dąbrowski;Opole;2025-07-05;Elektronika;4695,81;ZREALIZOWANE
+533;Agnieszka Zielińska;Łódź;2025-07-06;Zabawki;158,28;ZREALIZOWANE
+534;Zofia Grabowska;Opole;2025-07-06;Elektronika;12199,12;ZREALIZOWANE
+535;Agnieszka Zielińska;Wrocław;2025-07-06;Sport;2099,79;ZREALIZOWANE
+536;Michał Szymański;Opole;2025-07-07;Elektronika;1697,19;WYSLANE
+537;Ewa Wiśniewska;Warszawa;2025-07-09;Książki;62,93;OPLACONE
+538;Anna Nowak;Kraków;2025-07-09;Zabawki;15,82;ZREALIZOWANE
+539;Adam Piotrowski;Katowice;2025-07-10;Dom i ogród;972,12;NOWE
+540;Marek Wójcik;Opole;2025-07-11;Elektronika;214,38;ZREALIZOWANE
+541;Adam Piotrowski;Wrocław;2025-07-11;Elektronika;493,43;WYSLANE
+542;Karolina Dudek;Opole;2025-07-11;Sport;1127,68;NOWE
+543;Rafał Adamczyk;Łódź;2025-07-11;Zabawki;47,28;ZREALIZOWANE
+544;Jakub Jabłoński;Kraków;2025-07-12;Odzież;30,62;OPLACONE
+545;Karolina Dudek;Opole;2025-07-12;Książki;256,63;OPLACONE
+546;Jakub Jabłoński;Katowice;2025-07-13;Książki;199,75;ZREALIZOWANE
+547;Paweł Dąbrowski;Gdańsk;2025-07-13;Zabawki;844,45;ANULOWANE
+548;Piotr Kowalski;Warszawa;2025-07-13;Sport;155,74;OPLACONE
+549;Magdalena Woźniak;Kraków;2025-07-13;Elektronika;7428,75;ZREALIZOWANE
+550;Aleksandra Mazur;Wrocław;2025-07-13;Odzież;174,97;ZREALIZOWANE
+551;Marek Wójcik;Wrocław;2025-07-14;Odzież;685,94;ZREALIZOWANE
+552;Szymon Jaworski;Warszawa;2025-07-14;Książki;277,67;ZREALIZOWANE
+553;Natalia Krawczyk;Kraków;2025-07-14;Elektronika;3523,41;ZREALIZOWANE
+554;Paweł Dąbrowski;Katowice;2025-07-15;Książki;61,12;ZREALIZOWANE
+555;Anna Nowak;Opole;2025-07-16;Książki;129,80;ZREALIZOWANE
+556;Adam Piotrowski;Warszawa;2025-07-16;Zabawki;137,67;ZREALIZOWANE
+557;Julia Pawłowska;Katowice;2025-07-16;Dom i ogród;859,57;ZREALIZOWANE
+558;Agnieszka Zielińska;Opole;2025-07-17;Książki;24,76;ZREALIZOWANE
+559;Anna Nowak;Gdańsk;2025-07-18;Elektronika;7914,27;ZREALIZOWANE
+560;Monika Nowicka;Łódź;2025-07-18;Elektronika;551,95;OPLACONE
+561;Rafał Adamczyk;Opole;2025-07-18;Dom i ogród;391,00;OPLACONE
+562;Sylwia Król;Opole;2025-07-18;Elektronika;3367,48;ZREALIZOWANE
+563;Piotr Kowalski;Warszawa;2025-07-19;Książki;34,73;ZREALIZOWANE
+564;Adam Piotrowski;Wrocław;2025-07-19;Zabawki;748,43;ZREALIZOWANE
+565;Natalia Krawczyk;Wrocław;2025-07-19;Zabawki;162,41;ZREALIZOWANE
+566;Michał Szymański;Warszawa;2025-07-19;Książki;19,59;ZREALIZOWANE
+567;Aleksandra Mazur;Poznań;2025-07-20;Zabawki;322,13;ZREALIZOWANE
+568;Agnieszka Zielińska;Poznań;2025-07-20;Elektronika;1572,54;ZREALIZOWANE
+569;Anna Nowak;Gdańsk;2025-07-20;Elektronika;4020,60;ZREALIZOWANE
+570;Julia Pawłowska;Kraków;2025-07-21;Książki;71,82;WYSLANE
+571;Zofia Grabowska;Kraków;2025-07-21;Odzież;466,88;NOWE
+572;Krzysztof Jankowski;Opole;2025-07-21;Dom i ogród;4151,40;ZREALIZOWANE
+573;Szymon Jaworski;Katowice;2025-07-22;Książki;99,49;ANULOWANE
+574;Joanna Kozłowska;Opole;2025-07-22;Zabawki;49,83;ZREALIZOWANE
+575;Michał Szymański;Opole;2025-07-23;Zabawki;536,92;WYSLANE
+576;Karolina Dudek;Wrocław;2025-07-23;Elektronika;5148,04;NOWE
+577;Aleksandra Mazur;Kraków;2025-07-23;Elektronika;171,94;ANULOWANE
+578;Grzegorz Zając;Kraków;2025-07-23;Zabawki;617,19;WYSLANE
+579;Jakub Jabłoński;Wrocław;2025-07-24;Sport;411,48;ZREALIZOWANE
+580;Bartosz Nowakowski;Warszawa;2025-07-24;Odzież;29,05;OPLACONE
+581;Piotr Kowalski;Poznań;2025-07-24;Odzież;73,35;ZREALIZOWANE
+582;Natalia Krawczyk;Kraków;2025-07-26;Książki;29,30;ZREALIZOWANE
+583;Michał Szymański;Wrocław;2025-07-26;Elektronika;12285,16;ZREALIZOWANE
+584;Aleksandra Mazur;Warszawa;2025-07-27;Zabawki;405,81;WYSLANE
+585;Ewelina Olszewska;Kraków;2025-07-27;Książki;89,40;ZREALIZOWANE
+586;Karolina Dudek;Katowice;2025-07-28;Elektronika;1390,15;ZREALIZOWANE
+587;Kamil Michalski;Wrocław;2025-07-28;Zabawki;15,17;OPLACONE
+588;Jakub Jabłoński;Opole;2025-07-28;Dom i ogród;105,42;NOWE
+589;Marek Wójcik;Wrocław;2025-07-28;Zabawki;15,10;WYSLANE
+590;Marek Wójcik;Łódź;2025-07-28;Elektronika;7620,82;ZREALIZOWANE
+591;Krzysztof Jankowski;Warszawa;2025-07-29;Dom i ogród;153,18;ZREALIZOWANE
+592;Krzysztof Jankowski;Łódź;2025-07-30;Dom i ogród;2236,55;WYSLANE
+593;Rafał Adamczyk;Poznań;2025-07-30;Zabawki;543,44;OPLACONE
+594;Julia Pawłowska;Poznań;2025-07-30;Dom i ogród;41,22;ZREALIZOWANE
+595;Ewelina Olszewska;Katowice;2025-07-31;Książki;152,55;ZREALIZOWANE
+596;Dawid Majewski;Warszawa;2025-07-31;Dom i ogród;1408,02;ZREALIZOWANE
+597;Dawid Majewski;Poznań;2025-07-31;Sport;155,26;ZREALIZOWANE
+598;Zofia Grabowska;Katowice;2025-08-01;Książki;25,67;OPLACONE
+599;Agnieszka Zielińska;Opole;2025-08-01;Dom i ogród;40,05;ZREALIZOWANE
+600;Bartosz Nowakowski;Łódź;2025-08-02;Książki;259,46;OPLACONE
+601;Julia Pawłowska;Katowice;2025-08-02;Sport;1669,70;ZREALIZOWANE
+602;Ewa Wiśniewska;Warszawa;2025-08-02;Zabawki;60,36;ZREALIZOWANE
+603;Krzysztof Jankowski;Opole;2025-08-03;Sport;364,15;ZREALIZOWANE
+604;Ewa Wiśniewska;Gdańsk;2025-08-03;Książki;154,08;ZREALIZOWANE
+605;Marek Wójcik;Opole;2025-08-03;Elektronika;4237,63;ZREALIZOWANE
+606;Ewa Wiśniewska;Gdańsk;2025-08-04;Zabawki;132,76;WYSLANE
+607;Tomasz Lewandowski;Poznań;2025-08-04;Dom i ogród;1811,83;ZREALIZOWANE
+608;Beata Wieczorek;Łódź;2025-08-05;Książki;189,52;ANULOWANE
+609;Anna Nowak;Warszawa;2025-08-05;Odzież;42,37;ZREALIZOWANE
+610;Dawid Majewski;Wrocław;2025-08-05;Odzież;38,19;OPLACONE
+611;Ewa Wiśniewska;Katowice;2025-08-06;Elektronika;167,62;ZREALIZOWANE
+612;Adam Piotrowski;Opole;2025-08-07;Dom i ogród;679,33;ZREALIZOWANE
+613;Monika Nowicka;Katowice;2025-08-07;Elektronika;4346,84;ZREALIZOWANE
+614;Dawid Majewski;Wrocław;2025-08-07;Książki;150,38;ANULOWANE
+615;Sylwia Król;Warszawa;2025-08-08;Elektronika;1576,14;WYSLANE
+616;Beata Wieczorek;Katowice;2025-08-08;Książki;68,38;ZREALIZOWANE
+617;Bartosz Nowakowski;Warszawa;2025-08-08;Elektronika;10067,30;ZREALIZOWANE
+618;Monika Nowicka;Wrocław;2025-08-08;Elektronika;10126,90;WYSLANE
+619;Joanna Kozłowska;Katowice;2025-08-09;Odzież;233,99;ZREALIZOWANE
+620;Natalia Krawczyk;Katowice;2025-08-09;Elektronika;13736,96;OPLACONE
+621;Zofia Grabowska;Łódź;2025-08-09;Odzież;516,25;WYSLANE
+622;Michał Szymański;Wrocław;2025-08-09;Elektronika;216,39;NOWE
+623;Anna Nowak;Opole;2025-08-10;Książki;219,75;ZREALIZOWANE
+624;Monika Nowicka;Katowice;2025-08-10;Dom i ogród;1833,41;ZREALIZOWANE
+625;Natalia Krawczyk;Opole;2025-08-10;Dom i ogród;1589,20;ZREALIZOWANE
+626;Grzegorz Zając;Katowice;2025-08-11;Książki;127,42;ZREALIZOWANE
+627;Piotr Kowalski;Kraków;2025-08-11;Dom i ogród;203,43;ANULOWANE
+628;Aleksandra Mazur;Kraków;2025-08-12;Dom i ogród;161,84;ZREALIZOWANE
+629;Beata Wieczorek;Wrocław;2025-08-12;Odzież;694,79;ZREALIZOWANE
+630;Szymon Jaworski;Wrocław;2025-08-13;Książki;31,18;ZREALIZOWANE
+631;Agnieszka Zielińska;Poznań;2025-08-13;Dom i ogród;509,28;ZREALIZOWANE
+632;Karolina Dudek;Kraków;2025-08-13;Odzież;788,27;ZREALIZOWANE
+633;Paweł Dąbrowski;Opole;2025-08-14;Dom i ogród;112,09;ZREALIZOWANE
+634;Krzysztof Jankowski;Wrocław;2025-08-15;Dom i ogród;134,37;ZREALIZOWANE
+635;Szymon Jaworski;Poznań;2025-08-15;Książki;230,13;NOWE
+636;Julia Pawłowska;Kraków;2025-08-15;Elektronika;1076,02;ZREALIZOWANE
+637;Katarzyna Kamińska;Opole;2025-08-15;Książki;154,49;ZREALIZOWANE
+638;Magdalena Woźniak;Kraków;2025-08-16;Odzież;839,06;ZREALIZOWANE
+639;Aleksandra Mazur;Katowice;2025-08-16;Dom i ogród;2806,58;ZREALIZOWANE
+640;Krzysztof Jankowski;Łódź;2025-08-16;Sport;2472,80;ZREALIZOWANE
+641;Sylwia Król;Gdańsk;2025-08-16;Odzież;613,45;ANULOWANE
+642;Ewa Wiśniewska;Warszawa;2025-08-17;Dom i ogród;2834,24;OPLACONE
+643;Natalia Krawczyk;Katowice;2025-08-17;Zabawki;102,83;ANULOWANE
+644;Szymon Jaworski;Wrocław;2025-08-17;Elektronika;3111,40;ZREALIZOWANE
+645;Magdalena Woźniak;Poznań;2025-08-17;Dom i ogród;88,10;WYSLANE
+646;Michał Szymański;Łódź;2025-08-17;Dom i ogród;1406,25;ZREALIZOWANE
+647;Ewelina Olszewska;Kraków;2025-08-17;Dom i ogród;85,22;ZREALIZOWANE
+648;Kamil Michalski;Katowice;2025-08-17;Książki;31,62;ZREALIZOWANE
+649;Ewelina Olszewska;Łódź;2025-08-18;Dom i ogród;42,70;ZREALIZOWANE
+650;Grzegorz Zając;Wrocław;2025-08-19;Zabawki;589,91;WYSLANE
+651;Krzysztof Jankowski;Opole;2025-08-19;Książki;19,22;ZREALIZOWANE
+652;Ewelina Olszewska;Kraków;2025-08-19;Dom i ogród;611,84;ZREALIZOWANE
+653;Anna Nowak;Gdańsk;2025-08-20;Odzież;30,31;WYSLANE
+654;Grzegorz Zając;Gdańsk;2025-08-21;Elektronika;1005,71;WYSLANE
+655;Paweł Dąbrowski;Gdańsk;2025-08-21;Zabawki;128,44;ZREALIZOWANE
+656;Rafał Adamczyk;Katowice;2025-08-21;Dom i ogród;4013,09;ZREALIZOWANE
+657;Katarzyna Kamińska;Wrocław;2025-08-21;Sport;63,75;ZREALIZOWANE
+658;Bartosz Nowakowski;Wrocław;2025-08-22;Sport;1736,75;ZREALIZOWANE
+659;Karolina Dudek;Katowice;2025-08-23;Elektronika;5767,20;NOWE
+660;Ewelina Olszewska;Warszawa;2025-08-23;Sport;1351,88;ZREALIZOWANE
+661;Beata Wieczorek;Kraków;2025-08-23;Sport;100,61;ZREALIZOWANE
+662;Michał Szymański;Łódź;2025-08-24;Sport;572,47;OPLACONE
+663;Łukasz Kwiatkowski;Kraków;2025-08-26;Elektronika;157,30;OPLACONE
+664;Kamil Michalski;Wrocław;2025-08-26;Dom i ogród;3367,66;ZREALIZOWANE
+665;Michał Szymański;Poznań;2025-08-26;Elektronika;2450,15;ZREALIZOWANE
+666;Sylwia Król;Warszawa;2025-08-27;Elektronika;1002,25;WYSLANE
+667;Ewa Wiśniewska;Gdańsk;2025-08-27;Dom i ogród;477,92;NOWE
+668;Ewa Wiśniewska;Warszawa;2025-08-27;Książki;125,88;ZREALIZOWANE
+669;Zofia Grabowska;Gdańsk;2025-08-28;Sport;509,99;WYSLANE
+670;Joanna Kozłowska;Warszawa;2025-08-28;Dom i ogród;4167,26;ZREALIZOWANE
+671;Tomasz Lewandowski;Opole;2025-08-28;Książki;53,85;ZREALIZOWANE
+672;Magdalena Woźniak;Wrocław;2025-08-28;Dom i ogród;3734,76;NOWE
+673;Grzegorz Zając;Gdańsk;2025-08-28;Książki;21,95;ZREALIZOWANE
+674;Dawid Majewski;Gdańsk;2025-08-29;Elektronika;11404,28;ZREALIZOWANE
+675;Katarzyna Kamińska;Gdańsk;2025-08-29;Zabawki;52,60;ZREALIZOWANE
+676;Bartosz Nowakowski;Gdańsk;2025-08-30;Odzież;120,60;NOWE
+677;Ewelina Olszewska;Gdańsk;2025-08-30;Książki;24,76;ZREALIZOWANE
+678;Anna Nowak;Kraków;2025-08-30;Zabawki;64,20;OPLACONE
+679;Beata Wieczorek;Kraków;2025-08-30;Odzież;967,90;ZREALIZOWANE
+680;Paweł Dąbrowski;Wrocław;2025-08-31;Zabawki;385,81;ZREALIZOWANE
+681;Jakub Jabłoński;Wrocław;2025-08-31;Odzież;46,76;ZREALIZOWANE
+682;Grzegorz Zając;Gdańsk;2025-08-31;Książki;152,85;NOWE
+683;Zofia Grabowska;Warszawa;2025-08-31;Książki;158,79;ZREALIZOWANE
+684;Piotr Kowalski;Wrocław;2025-08-31;Elektronika;13730,37;ZREALIZOWANE
+685;Adam Piotrowski;Łódź;2025-08-31;Zabawki;192,91;ANULOWANE
+686;Anna Nowak;Katowice;2025-09-01;Sport;753,49;WYSLANE
+687;Jakub Jabłoński;Łódź;2025-09-01;Książki;57,73;OPLACONE
+688;Agnieszka Zielińska;Kraków;2025-09-01;Sport;159,78;ZREALIZOWANE
+689;Grzegorz Zając;Poznań;2025-09-01;Elektronika;14490,69;WYSLANE
+690;Szymon Jaworski;Kraków;2025-09-02;Dom i ogród;228,19;WYSLANE
+691;Zofia Grabowska;Gdańsk;2025-09-02;Książki;43,57;ZREALIZOWANE
+692;Julia Pawłowska;Wrocław;2025-09-03;Dom i ogród;2622,56;OPLACONE
+693;Katarzyna Kamińska;Łódź;2025-09-03;Dom i ogród;3829,44;ZREALIZOWANE
+694;Agnieszka Zielińska;Kraków;2025-09-03;Książki;32,98;OPLACONE
+695;Piotr Kowalski;Warszawa;2025-09-03;Książki;162,06;ZREALIZOWANE
+696;Monika Nowicka;Opole;2025-09-04;Zabawki;21,65;OPLACONE
+697;Michał Szymański;Warszawa;2025-09-05;Książki;19,22;ZREALIZOWANE
+698;Szymon Jaworski;Opole;2025-09-05;Elektronika;312,45;ZREALIZOWANE
+699;Rafał Adamczyk;Opole;2025-09-06;Książki;51,85;NOWE
+700;Kamil Michalski;Warszawa;2025-09-07;Książki;143,41;OPLACONE
+701;Magdalena Woźniak;Poznań;2025-09-08;Elektronika;8607,10;ZREALIZOWANE
+702;Adam Piotrowski;Katowice;2025-09-08;Elektronika;9692,90;ZREALIZOWANE
+703;Tomasz Lewandowski;Poznań;2025-09-08;Dom i ogród;420,86;ANULOWANE
+704;Piotr Kowalski;Warszawa;2025-09-08;Elektronika;582,11;WYSLANE
+705;Michał Szymański;Opole;2025-09-09;Odzież;391,06;OPLACONE
+706;Dawid Majewski;Kraków;2025-09-09;Dom i ogród;1046,49;ANULOWANE
+707;Bartosz Nowakowski;Wrocław;2025-09-09;Sport;3128,22;ZREALIZOWANE
+708;Sylwia Król;Opole;2025-09-09;Sport;721,31;ZREALIZOWANE
+709;Adam Piotrowski;Warszawa;2025-09-09;Elektronika;312,70;OPLACONE
+710;Aleksandra Mazur;Wrocław;2025-09-09;Elektronika;5608,88;ZREALIZOWANE
+711;Tomasz Lewandowski;Poznań;2025-09-10;Elektronika;12088,62;WYSLANE
+712;Szymon Jaworski;Poznań;2025-09-10;Elektronika;219,34;ANULOWANE
+713;Aleksandra Mazur;Gdańsk;2025-09-10;Dom i ogród;145,19;WYSLANE
+714;Monika Nowicka;Katowice;2025-09-10;Książki;30,47;NOWE
+715;Joanna Kozłowska;Wrocław;2025-09-10;Książki;98,72;OPLACONE
+716;Dawid Majewski;Kraków;2025-09-11;Książki;24,23;ZREALIZOWANE
+717;Jakub Jabłoński;Kraków;2025-09-11;Sport;2052,83;WYSLANE
+718;Jakub Jabłoński;Opole;2025-09-12;Zabawki;273,57;ZREALIZOWANE
+719;Monika Nowicka;Wrocław;2025-09-12;Sport;444,44;ANULOWANE
+720;Aleksandra Mazur;Opole;2025-09-12;Książki;222,60;ZREALIZOWANE
+721;Kamil Michalski;Warszawa;2025-09-12;Sport;1829,01;ZREALIZOWANE
+722;Jakub Jabłoński;Poznań;2025-09-13;Odzież;207,65;ZREALIZOWANE
+723;Dawid Majewski;Kraków;2025-09-13;Książki;27,22;ZREALIZOWANE
+724;Aleksandra Mazur;Opole;2025-09-13;Elektronika;14326,64;ZREALIZOWANE
+725;Katarzyna Kamińska;Gdańsk;2025-09-13;Odzież;283,10;ZREALIZOWANE
+726;Krzysztof Jankowski;Wrocław;2025-09-13;Zabawki;458,58;WYSLANE
+727;Krzysztof Jankowski;Katowice;2025-09-14;Elektronika;1890,19;ZREALIZOWANE
+728;Piotr Kowalski;Wrocław;2025-09-16;Sport;2858,76;ZREALIZOWANE
+729;Kamil Michalski;Łódź;2025-09-16;Odzież;898,63;ANULOWANE
+730;Paweł Dąbrowski;Łódź;2025-09-18;Sport;2017,31;ZREALIZOWANE
+731;Adam Piotrowski;Wrocław;2025-09-18;Zabawki;298,28;WYSLANE
+732;Piotr Kowalski;Poznań;2025-09-18;Zabawki;17,60;ZREALIZOWANE
+733;Kamil Michalski;Katowice;2025-09-19;Książki;141,61;ZREALIZOWANE
+734;Ewa Wiśniewska;Katowice;2025-09-20;Sport;1782,08;WYSLANE
+735;Szymon Jaworski;Kraków;2025-09-20;Zabawki;877,57;ZREALIZOWANE
+736;Jakub Jabłoński;Katowice;2025-09-20;Odzież;1121,71;ZREALIZOWANE
+737;Szymon Jaworski;Gdańsk;2025-09-21;Sport;37,19;ANULOWANE
+738;Zofia Grabowska;Opole;2025-09-22;Odzież;501,18;OPLACONE
+739;Piotr Kowalski;Kraków;2025-09-22;Zabawki;325,25;OPLACONE
+740;Joanna Kozłowska;Katowice;2025-09-23;Elektronika;11949,21;OPLACONE
+741;Julia Pawłowska;Kraków;2025-09-24;Elektronika;3804,90;WYSLANE
+742;Dawid Majewski;Wrocław;2025-09-24;Książki;97,95;ZREALIZOWANE
+743;Agnieszka Zielińska;Katowice;2025-09-24;Odzież;123,30;ZREALIZOWANE
+744;Monika Nowicka;Wrocław;2025-09-25;Książki;134,84;ZREALIZOWANE
+745;Ewa Wiśniewska;Łódź;2025-09-25;Sport;1767,96;ANULOWANE
+746;Dawid Majewski;Wrocław;2025-09-26;Odzież;777,95;NOWE
+747;Karolina Dudek;Katowice;2025-09-26;Zabawki;189,02;ZREALIZOWANE
+748;Ewelina Olszewska;Wrocław;2025-09-26;Elektronika;6090,67;ZREALIZOWANE
+749;Sylwia Król;Wrocław;2025-09-27;Odzież;1066,36;NOWE
+750;Dawid Majewski;Gdańsk;2025-09-27;Dom i ogród;635,84;WYSLANE
+751;Marek Wójcik;Łódź;2025-09-28;Dom i ogród;543,16;ANULOWANE
+752;Zofia Grabowska;Kraków;2025-09-28;Elektronika;647,00;ZREALIZOWANE
+753;Ewelina Olszewska;Warszawa;2025-09-28;Elektronika;10328,61;ZREALIZOWANE
+754;Łukasz Kwiatkowski;Warszawa;2025-09-28;Odzież;1073,33;ZREALIZOWANE
+755;Natalia Krawczyk;Opole;2025-09-28;Zabawki;16,41;WYSLANE
+756;Ewelina Olszewska;Opole;2025-09-29;Dom i ogród;889,33;ZREALIZOWANE
+757;Grzegorz Zając;Warszawa;2025-09-29;Zabawki;42,53;ZREALIZOWANE
+758;Zofia Grabowska;Kraków;2025-09-29;Odzież;36,91;ZREALIZOWANE
+759;Dawid Majewski;Katowice;2025-10-01;Sport;1371,82;WYSLANE
+760;Kamil Michalski;Katowice;2025-10-01;Zabawki;536,38;ZREALIZOWANE
+761;Sylwia Król;Warszawa;2025-10-02;Elektronika;13634,98;OPLACONE
+762;Monika Nowicka;Gdańsk;2025-10-03;Odzież;33,63;ZREALIZOWANE
+763;Karolina Dudek;Warszawa;2025-10-03;Dom i ogród;276,10;ZREALIZOWANE
+764;Karolina Dudek;Łódź;2025-10-04;Elektronika;5064,15;ZREALIZOWANE
+765;Tomasz Lewandowski;Wrocław;2025-10-04;Sport;73,71;NOWE
+766;Bartosz Nowakowski;Kraków;2025-10-04;Książki;213,63;ZREALIZOWANE
+767;Agnieszka Zielińska;Opole;2025-10-04;Elektronika;14400,83;ZREALIZOWANE
+768;Grzegorz Zając;Wrocław;2025-10-04;Elektronika;166,37;ZREALIZOWANE
+769;Joanna Kozłowska;Kraków;2025-10-06;Odzież;39,27;ZREALIZOWANE
+770;Ewa Wiśniewska;Warszawa;2025-10-06;Elektronika;5508,76;ZREALIZOWANE
+771;Szymon Jaworski;Wrocław;2025-10-06;Książki;98,29;NOWE
+772;Grzegorz Zając;Kraków;2025-10-07;Dom i ogród;596,33;ANULOWANE
+773;Agnieszka Zielińska;Katowice;2025-10-07;Książki;33,37;WYSLANE
+774;Szymon Jaworski;Opole;2025-10-08;Dom i ogród;154,71;ZREALIZOWANE
+775;Marek Wójcik;Kraków;2025-10-08;Odzież;44,04;ANULOWANE
+776;Joanna Kozłowska;Poznań;2025-10-08;Książki;143,35;NOWE
+777;Szymon Jaworski;Poznań;2025-10-08;Książki;25,68;OPLACONE
+778;Marek Wójcik;Wrocław;2025-10-09;Zabawki;197,57;ZREALIZOWANE
+779;Paweł Dąbrowski;Kraków;2025-10-09;Książki;277,08;ZREALIZOWANE
+780;Monika Nowicka;Warszawa;2025-10-09;Elektronika;958,98;WYSLANE
+781;Zofia Grabowska;Warszawa;2025-10-09;Odzież;443,24;ANULOWANE
+782;Karolina Dudek;Opole;2025-10-09;Sport;3254,48;ANULOWANE
+783;Paweł Dąbrowski;Wrocław;2025-10-10;Zabawki;455,77;WYSLANE
+784;Magdalena Woźniak;Warszawa;2025-10-10;Sport;1639,08;ZREALIZOWANE
+785;Rafał Adamczyk;Wrocław;2025-10-10;Elektronika;353,98;OPLACONE
+786;Tomasz Lewandowski;Opole;2025-10-11;Odzież;138,72;WYSLANE
+787;Rafał Adamczyk;Kraków;2025-10-11;Książki;178,39;OPLACONE
+788;Bartosz Nowakowski;Wrocław;2025-10-11;Odzież;1015,32;ZREALIZOWANE
+789;Agnieszka Zielińska;Opole;2025-10-11;Elektronika;9047,38;ZREALIZOWANE
+790;Tomasz Lewandowski;Katowice;2025-10-11;Elektronika;1282,19;ZREALIZOWANE
+791;Rafał Adamczyk;Poznań;2025-10-12;Dom i ogród;2791,07;ANULOWANE
+792;Julia Pawłowska;Opole;2025-10-12;Dom i ogród;606,96;NOWE
+793;Julia Pawłowska;Poznań;2025-10-12;Elektronika;1709,94;WYSLANE
+794;Paweł Dąbrowski;Wrocław;2025-10-13;Sport;37,04;ANULOWANE
+795;Agnieszka Zielińska;Łódź;2025-10-13;Sport;2179,69;ZREALIZOWANE
+796;Katarzyna Kamińska;Opole;2025-10-13;Książki;195,21;OPLACONE
+797;Ewelina Olszewska;Wrocław;2025-10-14;Sport;53,62;OPLACONE
+798;Anna Nowak;Łódź;2025-10-14;Elektronika;174,70;NOWE
+799;Dawid Majewski;Wrocław;2025-10-15;Odzież;662,64;ANULOWANE
+800;Joanna Kozłowska;Warszawa;2025-10-15;Elektronika;2379,19;ZREALIZOWANE
+801;Krzysztof Jankowski;Opole;2025-10-16;Odzież;31,08;ZREALIZOWANE
+802;Rafał Adamczyk;Kraków;2025-10-16;Elektronika;234,50;ZREALIZOWANE
+803;Grzegorz Zając;Opole;2025-10-16;Książki;67,52;ZREALIZOWANE
+804;Karolina Dudek;Opole;2025-10-17;Sport;2403,64;OPLACONE
+805;Katarzyna Kamińska;Kraków;2025-10-17;Dom i ogród;990,99;ZREALIZOWANE
+806;Julia Pawłowska;Warszawa;2025-10-17;Książki;37,20;ANULOWANE
+807;Julia Pawłowska;Wrocław;2025-10-18;Odzież;368,79;ZREALIZOWANE
+808;Magdalena Woźniak;Wrocław;2025-10-18;Sport;73,44;OPLACONE
+809;Katarzyna Kamińska;Warszawa;2025-10-18;Elektronika;452,39;WYSLANE
+810;Zofia Grabowska;Opole;2025-10-20;Odzież;99,48;ANULOWANE
+811;Kamil Michalski;Warszawa;2025-10-21;Odzież;69,43;ZREALIZOWANE
+812;Rafał Adamczyk;Opole;2025-10-21;Dom i ogród;691,14;ZREALIZOWANE
+813;Adam Piotrowski;Kraków;2025-10-21;Odzież;936,96;ZREALIZOWANE
+814;Michał Szymański;Wrocław;2025-10-23;Sport;245,68;WYSLANE
+815;Magdalena Woźniak;Wrocław;2025-10-23;Dom i ogród;2689,24;WYSLANE
+816;Jakub Jabłoński;Wrocław;2025-10-23;Elektronika;12874,71;ZREALIZOWANE
+817;Krzysztof Jankowski;Wrocław;2025-10-23;Książki;142,09;OPLACONE
+818;Zofia Grabowska;Katowice;2025-10-23;Odzież;34,45;ZREALIZOWANE
+819;Beata Wieczorek;Poznań;2025-10-24;Sport;548,92;ZREALIZOWANE
+820;Piotr Kowalski;Łódź;2025-10-24;Elektronika;1424,28;OPLACONE
+821;Dawid Majewski;Wrocław;2025-10-24;Sport;37,09;NOWE
+822;Joanna Kozłowska;Warszawa;2025-10-24;Dom i ogród;102,63;OPLACONE
+823;Magdalena Woźniak;Łódź;2025-10-24;Książki;311,20;ANULOWANE
+824;Ewa Wiśniewska;Warszawa;2025-10-25;Elektronika;2234,08;ZREALIZOWANE
+825;Monika Nowicka;Katowice;2025-10-25;Elektronika;14472,99;NOWE
+826;Joanna Kozłowska;Warszawa;2025-10-25;Sport;2488,88;ZREALIZOWANE
+827;Agnieszka Zielińska;Łódź;2025-10-26;Zabawki;857,63;OPLACONE
+828;Paweł Dąbrowski;Opole;2025-10-26;Odzież;292,79;ZREALIZOWANE
+829;Natalia Krawczyk;Wrocław;2025-10-26;Odzież;29,43;ANULOWANE
+830;Grzegorz Zając;Wrocław;2025-10-27;Sport;2246,29;ZREALIZOWANE
+831;Dawid Majewski;Kraków;2025-10-28;Elektronika;267,38;ZREALIZOWANE
+832;Marek Wójcik;Poznań;2025-10-28;Zabawki;80,65;ZREALIZOWANE
+833;Joanna Kozłowska;Opole;2025-10-29;Odzież;106,49;WYSLANE
+834;Zofia Grabowska;Poznań;2025-10-29;Dom i ogród;188,56;WYSLANE
+835;Zofia Grabowska;Katowice;2025-10-29;Elektronika;1180,41;ZREALIZOWANE
+836;Michał Szymański;Opole;2025-10-29;Książki;127,34;OPLACONE
+837;Natalia Krawczyk;Katowice;2025-10-30;Elektronika;3763,52;ZREALIZOWANE
+838;Zofia Grabowska;Wrocław;2025-10-30;Dom i ogród;473,67;WYSLANE
+839;Szymon Jaworski;Kraków;2025-10-31;Sport;2029,30;ANULOWANE
+840;Agnieszka Zielińska;Opole;2025-10-31;Książki;251,87;WYSLANE
+841;Julia Pawłowska;Opole;2025-11-01;Sport;1561,83;ZREALIZOWANE
+842;Adam Piotrowski;Łódź;2025-11-01;Sport;2967,12;ZREALIZOWANE
+843;Monika Nowicka;Kraków;2025-11-01;Dom i ogród;3093,31;ZREALIZOWANE
+844;Adam Piotrowski;Kraków;2025-11-01;Dom i ogród;990,71;ZREALIZOWANE
+845;Szymon Jaworski;Katowice;2025-11-02;Zabawki;561,98;ANULOWANE
+846;Ewa Wiśniewska;Kraków;2025-11-03;Odzież;289,18;OPLACONE
+847;Ewelina Olszewska;Wrocław;2025-11-03;Książki;211,31;OPLACONE
+848;Zofia Grabowska;Łódź;2025-11-03;Sport;364,59;OPLACONE
+849;Adam Piotrowski;Opole;2025-11-03;Elektronika;10181,17;ZREALIZOWANE
+850;Ewa Wiśniewska;Kraków;2025-11-04;Sport;57,15;ZREALIZOWANE
+851;Marek Wójcik;Gdańsk;2025-11-04;Elektronika;761,69;ZREALIZOWANE
+852;Monika Nowicka;Kraków;2025-11-05;Odzież;714,45;ZREALIZOWANE
+853;Magdalena Woźniak;Opole;2025-11-06;Dom i ogród;1058,85;ZREALIZOWANE
+854;Katarzyna Kamińska;Warszawa;2025-11-06;Zabawki;129,11;ZREALIZOWANE
+855;Krzysztof Jankowski;Poznań;2025-11-06;Zabawki;858,73;ZREALIZOWANE
+856;Jakub Jabłoński;Kraków;2025-11-07;Odzież;88,51;OPLACONE
+857;Michał Szymański;Warszawa;2025-11-07;Odzież;234,71;ZREALIZOWANE
+858;Karolina Dudek;Warszawa;2025-11-08;Sport;39,52;WYSLANE
+859;Zofia Grabowska;Wrocław;2025-11-08;Odzież;96,56;ANULOWANE
+860;Sylwia Król;Warszawa;2025-11-09;Dom i ogród;1532,73;ANULOWANE
+861;Rafał Adamczyk;Opole;2025-11-09;Zabawki;43,57;WYSLANE
+862;Piotr Kowalski;Wrocław;2025-11-10;Dom i ogród;1560,25;OPLACONE
+863;Jakub Jabłoński;Opole;2025-11-10;Zabawki;34,66;ANULOWANE
+864;Łukasz Kwiatkowski;Kraków;2025-11-10;Zabawki;42,17;WYSLANE
+865;Rafał Adamczyk;Katowice;2025-11-12;Książki;50,39;ZREALIZOWANE
+866;Krzysztof Jankowski;Wrocław;2025-11-12;Elektronika;9427,16;ZREALIZOWANE
+867;Kamil Michalski;Gdańsk;2025-11-13;Książki;65,27;WYSLANE
+868;Monika Nowicka;Poznań;2025-11-13;Elektronika;990,55;WYSLANE
+869;Ewelina Olszewska;Kraków;2025-11-13;Dom i ogród;89,25;ZREALIZOWANE
+870;Joanna Kozłowska;Kraków;2025-11-14;Odzież;268,18;ZREALIZOWANE
+871;Jakub Jabłoński;Wrocław;2025-11-15;Zabawki;110,92;ZREALIZOWANE
+872;Julia Pawłowska;Opole;2025-11-15;Książki;229,68;ANULOWANE
+873;Dawid Majewski;Warszawa;2025-11-15;Książki;190,55;ZREALIZOWANE
+874;Magdalena Woźniak;Opole;2025-11-15;Odzież;229,10;ZREALIZOWANE
+875;Paweł Dąbrowski;Wrocław;2025-11-16;Odzież;410,03;ZREALIZOWANE
+876;Michał Szymański;Kraków;2025-11-16;Zabawki;97,11;ANULOWANE
+877;Sylwia Król;Poznań;2025-11-16;Książki;278,81;WYSLANE
+878;Karolina Dudek;Łódź;2025-11-16;Książki;83,03;ZREALIZOWANE
+879;Grzegorz Zając;Poznań;2025-11-17;Sport;821,65;ZREALIZOWANE
+880;Grzegorz Zając;Warszawa;2025-11-18;Zabawki;82,49;ZREALIZOWANE
+881;Monika Nowicka;Gdańsk;2025-11-18;Sport;2444,46;ZREALIZOWANE
+882;Jakub Jabłoński;Łódź;2025-11-18;Odzież;694,48;ANULOWANE
+883;Agnieszka Zielińska;Katowice;2025-11-19;Książki;101,67;NOWE
+884;Ewa Wiśniewska;Opole;2025-11-19;Sport;2602,67;WYSLANE
+885;Marek Wójcik;Gdańsk;2025-11-20;Książki;90,86;ZREALIZOWANE
+886;Agnieszka Zielińska;Opole;2025-11-20;Elektronika;4200,39;WYSLANE
+887;Julia Pawłowska;Wrocław;2025-11-20;Odzież;1076,60;ZREALIZOWANE
+888;Piotr Kowalski;Warszawa;2025-11-21;Dom i ogród;2204,65;NOWE
+889;Karolina Dudek;Wrocław;2025-11-21;Dom i ogród;40,91;ZREALIZOWANE
+890;Marek Wójcik;Opole;2025-11-21;Sport;632,68;ZREALIZOWANE
+891;Beata Wieczorek;Gdańsk;2025-11-21;Dom i ogród;400,76;NOWE
+892;Rafał Adamczyk;Katowice;2025-11-22;Książki;19,00;ZREALIZOWANE
+893;Beata Wieczorek;Poznań;2025-11-22;Elektronika;150,00;ZREALIZOWANE
+894;Aleksandra Mazur;Katowice;2025-11-22;Dom i ogród;146,60;ZREALIZOWANE
+895;Jakub Jabłoński;Kraków;2025-11-22;Zabawki;35,89;WYSLANE
+896;Magdalena Woźniak;Katowice;2025-11-22;Książki;130,50;ANULOWANE
+897;Natalia Krawczyk;Warszawa;2025-11-22;Zabawki;882,49;ANULOWANE
+898;Joanna Kozłowska;Poznań;2025-11-23;Książki;122,87;WYSLANE
+899;Piotr Kowalski;Wrocław;2025-11-24;Książki;34,18;ZREALIZOWANE
+900;Adam Piotrowski;Warszawa;2025-11-24;Książki;19,02;WYSLANE
+901;Natalia Krawczyk;Wrocław;2025-11-24;Elektronika;1645,37;ZREALIZOWANE
+902;Michał Szymański;Gdańsk;2025-11-24;Sport;2788,14;OPLACONE
+903;Łukasz Kwiatkowski;Opole;2025-11-25;Dom i ogród;3335,15;ANULOWANE
+904;Natalia Krawczyk;Opole;2025-11-25;Sport;38,88;ZREALIZOWANE
+905;Kamil Michalski;Opole;2025-11-25;Dom i ogród;3124,28;ANULOWANE
+906;Krzysztof Jankowski;Kraków;2025-11-25;Książki;225,86;WYSLANE
+907;Sylwia Król;Poznań;2025-11-26;Odzież;734,48;WYSLANE
+908;Beata Wieczorek;Poznań;2025-11-26;Odzież;57,30;ZREALIZOWANE
+909;Krzysztof Jankowski;Opole;2025-11-26;Sport;66,57;ANULOWANE
+910;Kamil Michalski;Kraków;2025-11-27;Odzież;1098,02;NOWE
+911;Monika Nowicka;Wrocław;2025-11-27;Sport;1454,21;WYSLANE
+912;Adam Piotrowski;Warszawa;2025-11-27;Elektronika;6659,19;ANULOWANE
+913;Beata Wieczorek;Opole;2025-11-27;Sport;512,28;ZREALIZOWANE
+914;Katarzyna Kamińska;Kraków;2025-11-27;Dom i ogród;2519,36;WYSLANE
+915;Magdalena Woźniak;Wrocław;2025-11-28;Zabawki;340,05;ZREALIZOWANE
+916;Aleksandra Mazur;Warszawa;2025-11-28;Dom i ogród;800,02;ANULOWANE
+917;Julia Pawłowska;Warszawa;2025-11-28;Elektronika;14441,29;ZREALIZOWANE
+918;Aleksandra Mazur;Poznań;2025-11-28;Odzież;191,09;NOWE
+919;Bartosz Nowakowski;Łódź;2025-11-28;Dom i ogród;50,87;ZREALIZOWANE
+920;Krzysztof Jankowski;Katowice;2025-11-28;Elektronika;489,10;ZREALIZOWANE
+921;Krzysztof Jankowski;Kraków;2025-11-28;Odzież;457,62;ZREALIZOWANE
+922;Piotr Kowalski;Poznań;2025-11-29;Książki;30,54;WYSLANE
+923;Paweł Dąbrowski;Opole;2025-11-30;Sport;748,99;ZREALIZOWANE
+924;Szymon Jaworski;Poznań;2025-11-30;Zabawki;57,98;ZREALIZOWANE
+925;Krzysztof Jankowski;Warszawa;2025-11-30;Dom i ogród;3995,07;OPLACONE
+926;Agnieszka Zielińska;Katowice;2025-12-01;Elektronika;526,24;NOWE
+927;Tomasz Lewandowski;Opole;2025-12-01;Zabawki;15,06;OPLACONE
+928;Grzegorz Zając;Kraków;2025-12-02;Odzież;91,75;ZREALIZOWANE
+929;Aleksandra Mazur;Gdańsk;2025-12-02;Książki;79,81;NOWE
+930;Łukasz Kwiatkowski;Wrocław;2025-12-03;Dom i ogród;156,41;ZREALIZOWANE
+931;Agnieszka Zielińska;Opole;2025-12-03;Sport;73,66;OPLACONE
+932;Szymon Jaworski;Warszawa;2025-12-04;Dom i ogród;79,41;ZREALIZOWANE
+933;Tomasz Lewandowski;Opole;2025-12-04;Odzież;731,34;ZREALIZOWANE
+934;Kamil Michalski;Poznań;2025-12-04;Elektronika;14435,68;ZREALIZOWANE
+935;Ewelina Olszewska;Katowice;2025-12-05;Książki;117,22;ANULOWANE
+936;Ewa Wiśniewska;Poznań;2025-12-05;Książki;122,92;OPLACONE
+937;Magdalena Woźniak;Opole;2025-12-05;Odzież;430,93;ZREALIZOWANE
+938;Krzysztof Jankowski;Kraków;2025-12-05;Książki;66,82;ZREALIZOWANE
+939;Tomasz Lewandowski;Wrocław;2025-12-06;Dom i ogród;2823,77;ZREALIZOWANE
+940;Anna Nowak;Warszawa;2025-12-06;Dom i ogród;51,06;WYSLANE
+941;Krzysztof Jankowski;Opole;2025-12-06;Sport;2021,24;WYSLANE
+942;Monika Nowicka;Opole;2025-12-06;Zabawki;342,17;OPLACONE
+943;Katarzyna Kamińska;Warszawa;2025-12-07;Elektronika;13703,96;ZREALIZOWANE
+944;Łukasz Kwiatkowski;Kraków;2025-12-08;Odzież;302,95;WYSLANE
+945;Grzegorz Zając;Wrocław;2025-12-08;Książki;186,24;ANULOWANE
+946;Marek Wójcik;Warszawa;2025-12-09;Zabawki;806,91;ZREALIZOWANE
+947;Dawid Majewski;Opole;2025-12-10;Elektronika;155,30;ZREALIZOWANE
+948;Joanna Kozłowska;Opole;2025-12-10;Elektronika;4053,18;OPLACONE
+949;Dawid Majewski;Katowice;2025-12-11;Sport;480,87;OPLACONE
+950;Grzegorz Zając;Warszawa;2025-12-11;Odzież;339,40;ZREALIZOWANE
+951;Tomasz Lewandowski;Katowice;2025-12-12;Sport;108,76;ZREALIZOWANE
+952;Joanna Kozłowska;Łódź;2025-12-12;Odzież;691,47;ZREALIZOWANE
+953;Joanna Kozłowska;Gdańsk;2025-12-13;Sport;843,07;OPLACONE
+954;Krzysztof Jankowski;Wrocław;2025-12-13;Zabawki;122,86;ZREALIZOWANE
+955;Monika Nowicka;Kraków;2025-12-14;Odzież;128,30;ZREALIZOWANE
+956;Aleksandra Mazur;Opole;2025-12-14;Sport;2761,26;ANULOWANE
+957;Joanna Kozłowska;Warszawa;2025-12-14;Książki;25,01;OPLACONE
+958;Dawid Majewski;Łódź;2025-12-15;Zabawki;870,51;WYSLANE
+959;Bartosz Nowakowski;Opole;2025-12-15;Elektronika;4282,85;ZREALIZOWANE
+960;Agnieszka Zielińska;Gdańsk;2025-12-15;Zabawki;492,25;NOWE
+961;Krzysztof Jankowski;Opole;2025-12-16;Odzież;458,27;NOWE
+962;Monika Nowicka;Warszawa;2025-12-17;Dom i ogród;686,24;ZREALIZOWANE
+963;Aleksandra Mazur;Wrocław;2025-12-17;Zabawki;426,76;ZREALIZOWANE
+964;Natalia Krawczyk;Kraków;2025-12-17;Odzież;825,43;ZREALIZOWANE
+965;Marek Wójcik;Opole;2025-12-19;Odzież;187,41;OPLACONE
+966;Marek Wójcik;Wrocław;2025-12-19;Odzież;729,73;ZREALIZOWANE
+967;Magdalena Woźniak;Warszawa;2025-12-20;Sport;94,07;NOWE
+968;Tomasz Lewandowski;Gdańsk;2025-12-20;Odzież;950,22;NOWE
+969;Bartosz Nowakowski;Kraków;2025-12-20;Elektronika;160,10;ANULOWANE
+970;Joanna Kozłowska;Łódź;2025-12-21;Książki;246,73;WYSLANE
+971;Natalia Krawczyk;Wrocław;2025-12-22;Książki;238,13;ZREALIZOWANE
+972;Beata Wieczorek;Kraków;2025-12-22;Książki;21,90;NOWE
+973;Aleksandra Mazur;Kraków;2025-12-23;Sport;1080,64;ANULOWANE
+974;Monika Nowicka;Opole;2025-12-23;Książki;270,21;WYSLANE
+975;Sylwia Król;Opole;2025-12-23;Książki;90,30;ZREALIZOWANE
+976;Paweł Dąbrowski;Łódź;2025-12-23;Zabawki;193,48;OPLACONE
+977;Adam Piotrowski;Poznań;2025-12-24;Dom i ogród;2466,08;WYSLANE
+978;Rafał Adamczyk;Katowice;2025-12-24;Dom i ogród;1817,61;OPLACONE
+979;Grzegorz Zając;Wrocław;2025-12-25;Odzież;29,74;ZREALIZOWANE
+980;Szymon Jaworski;Gdańsk;2025-12-25;Książki;199,56;ZREALIZOWANE
+981;Joanna Kozłowska;Poznań;2025-12-25;Książki;23,27;ZREALIZOWANE
+982;Tomasz Lewandowski;Opole;2025-12-26;Dom i ogród;43,03;ZREALIZOWANE
+983;Szymon Jaworski;Łódź;2025-12-26;Zabawki;146,89;NOWE
+984;Rafał Adamczyk;Katowice;2025-12-26;Książki;25,97;ANULOWANE
+985;Natalia Krawczyk;Katowice;2025-12-26;Sport;3109,58;ZREALIZOWANE
+986;Agnieszka Zielińska;Gdańsk;2025-12-27;Zabawki;16,37;ZREALIZOWANE
+987;Adam Piotrowski;Opole;2025-12-27;Odzież;468,22;ZREALIZOWANE
+988;Beata Wieczorek;Opole;2025-12-27;Dom i ogród;3314,94;WYSLANE
+989;Karolina Dudek;Katowice;2025-12-28;Książki;105,60;ZREALIZOWANE
+990;Ewa Wiśniewska;Gdańsk;2025-12-28;Zabawki;846,76;WYSLANE
+991;Michał Szymański;Wrocław;2025-12-28;Odzież;145,16;OPLACONE
+992;Kamil Michalski;Katowice;2025-12-29;Książki;240,25;OPLACONE
+993;Marek Wójcik;Opole;2025-12-29;Elektronika;269,22;ZREALIZOWANE
+994;Ewa Wiśniewska;Poznań;2025-12-29;Elektronika;1436,85;NOWE
+995;Ewa Wiśniewska;Kraków;2025-12-30;Książki;73,81;ZREALIZOWANE
+996;Piotr Kowalski;Opole;2025-12-30;Książki;28,34;OPLACONE
+997;Krzysztof Jankowski;Gdańsk;2025-12-30;Książki;23,15;NOWE
+998;Dawid Majewski;Warszawa;2025-12-30;Odzież;132,41;NOWE
+999;Michał Szymański;Gdańsk;2025-12-31;Zabawki;890,59;ZREALIZOWANE
+1000;Grzegorz Zając;Kraków;2025-12-31;Elektronika;12877,76;ZREALIZOWANE
